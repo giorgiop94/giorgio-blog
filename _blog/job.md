@@ -1,5 +1,5 @@
 ---
-layout: post
+category: writings
 ---
 
 # Trading money for happiness

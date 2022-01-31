@@ -53,10 +53,36 @@ minima:
 # this and add the path to the pages in order as they should show up
 #header_pages:
 # - about.md
+#
+collections:
+  blog:
+    output: true
+ 
+defaults:
+  - scope:
+      path: "_blog/*.*"
+    values:
+      layout: post
+
+# Site configuration for the Jekyll 3 Pagination Gem
+# The values here represent the defaults if nothing is set
+pagination:
+  enabled: true
+  collection: 'blog'
+  permalink: '/page/:num/'
+  sort_reverse: true
+  per_page: 10
+
+  # title: ':title - page :num'
+  # extension: html
+  # Optional, the default name of the index file for generated pages (e.g. 'index.html')
+  # Without file extension
+  # indexpage: 'index'
 
 # Build settings
 theme: minima
 
 plugins:
- - jekyll-feed
- - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate-v2

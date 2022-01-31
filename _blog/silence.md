@@ -1,5 +1,5 @@
 ---
-layout: post
+category: writings
 ---
 
 # Gift Yourself Some Silence

@@ -1,5 +1,5 @@
 ---
-layout: post
+category: writings
 ---
 
 # The (Regenerative) Collective Hypothesis
