@@ -120,12 +120,11 @@
   }
 }
 
-
-
 /**
  * Site footer
  */
 .site-footer {
+  font-family: $heading-font-family;
   border-top: 1px solid $border-color-01;
   padding: $spacing-unit 0;
 }
