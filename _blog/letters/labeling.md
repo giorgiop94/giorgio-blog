@@ -1,5 +1,4 @@
 ---
-category: letters
 ---
 
 # Learning to Watch the Mind

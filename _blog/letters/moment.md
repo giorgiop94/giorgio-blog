@@ -1,5 +1,4 @@
 ---
-category: letters
 ---
 
 # Take a Moment to Re-Assess

@@ -1,5 +1,4 @@
 ---
-category: letters
 ---
 
 # To Reading Fiction!

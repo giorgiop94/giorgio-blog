@@ -1,5 +1,4 @@
 ---
-category: writings
 ---
 
 # Diving Into The Wisdom of Rapper-Philosopher J.Cole

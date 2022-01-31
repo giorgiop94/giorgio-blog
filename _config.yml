@@ -60,9 +60,19 @@ collections:
  
 defaults:
   - scope:
-      path: "_blog/*.*"
+      path: "_blog/*/*.*"
     values:
       layout: post
+  
+  - scope:
+      path: "_blog/letters/*.*"
+    values:
+      category: letters
+
+  - scope:
+      path: "_blog/writings/*.*"
+    values:
+      category: writings
 
 # Site configuration for the Jekyll 3 Pagination Gem
 # The values here represent the defaults if nothing is set

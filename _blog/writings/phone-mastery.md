@@ -1,5 +1,4 @@
 ---
-category: writings
 ---
 
 # Turn your phone master into your beautiful servant

@@ -1,5 +1,4 @@
 ---
-category: writings
 ---
 
 ## *a simple reminder to enjoy the present moment*

@@ -1,5 +1,4 @@
 ---
-category: writings
 ---
 
 # Gift Yourself Some Silence
