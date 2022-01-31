@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Home
 ---
 
 Born and raised in Sicily, I spent the last 5 years in the US and Asia, and I’m currently based in 

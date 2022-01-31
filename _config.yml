@@ -1,22 +1,18 @@
 ---
 title: Giorgio – Exploring Ideas
-# description: "Born and raised in Sicily, I spent the last five years in the US and Asia, and I’m currently based in Stockholm. I have a degree in Economics and an MBA with a focus on sustainability. My interests are mostly around meditation, regenerative agriculture, community, and entrepreneurship, and recently I’ve been fascinated to learn about Complexity Science."
+shortname: Giorgio 
+permalink: pretty
 
 author:
   name: Giorgio
   email: parlato.giorgio@gmail.com
 
-description: "Born and raised in Sicily, I spent the last five years in the US and Asia, and I’m currently based in Stockholm. I have a degree in Economics and an MBA with a focus on sustainability.
-My interests are mostly around meditation, regenerative agriculture, community, and entrepreneurship, and recently I’ve been fascinated to learn about Complexity Science."
-
 show_excerpts: false # set to true to show excerpts on the homepage
 
-# Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
   date_format: "%b %-d, %Y"
 
-  # generate social links in footer
   social_links:
     twitter: giorgiop_
     # github:  jekyll
@@ -49,11 +45,6 @@ minima:
     # - username: jekyll2
     #   instance: example.com
 
-# If you want to link only specific pages in your header, uncomment
-# this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
-#
 collections:
   blog:
     output: true
