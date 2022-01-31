@@ -2,8 +2,8 @@
  * Site header
  */
 .site-header {
-  border-top: 5px solid $border-color-03;
-  border-bottom: 1px solid $border-color-01;
+  // border-top: 5px solid $border-color-03;
+  border-bottom: 1px solid $site-title-color;
   min-height: $spacing-unit * 1.865;
   line-height: $base-line-height * $base-font-size * 2.25;
 
@@ -74,7 +74,7 @@
   }
 
   .page-link {
-    color: $text-color;
+    color: $link-base-color;
     line-height: $base-line-height;
     display: block;
     padding: 5px 10px;
