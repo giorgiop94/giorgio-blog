@@ -57,13 +57,13 @@ minima:
 collections:
   blog:
     output: true
- 
+
 defaults:
   - scope:
       path: "_blog/*/*.*"
     values:
       layout: post
-  
+
   - scope:
       path: "_blog/letters/*.*"
     values:
@@ -80,19 +80,21 @@ pagination:
   enabled: true
   collection: 'blog'
   permalink: '/page/:num/'
+  # title: ':title - page :num'
   sort_reverse: true
   per_page: 10
-
-  # title: ':title - page :num'
-  # extension: html
-  # Optional, the default name of the index file for generated pages (e.g. 'index.html')
-  # Without file extension
-  # indexpage: 'index'
-
-# Build settings
-theme: minima
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-paginate-v2
+
+exclude:
+  - .editorconfig
+  - .git
+  - .jekyll-cache
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.md
+  - HOWTO.md
+  - README.md
