@@ -1,6 +1,5 @@
 ---
 ---
-
 # Gift Yourself Some Silence
 
 ###### Why reducing podcast consumption may be a good thing
