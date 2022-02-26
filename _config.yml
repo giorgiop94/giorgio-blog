@@ -12,8 +12,6 @@ show_excerpts: true
 minima:
   skin: giorgio
 
-  date_format: "%b %-d, %Y"
-
   social_links:
     twitter: giorgiop_
     # github:  jekyll

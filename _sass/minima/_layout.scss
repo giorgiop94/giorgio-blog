@@ -228,16 +228,16 @@
 }
 
 .post-meta {
-  font-size: $small-font-size;
-  color: $brand-color;
+  font-size: 13px;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+  color: hsl(219, 0%, 30%);
 }
 
 .post-link {
   display: block;
   @include relative-font-size(1.5);
 }
-
-
 
 /**
  * Posts
