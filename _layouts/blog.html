@@ -21,9 +21,9 @@ layout: default
           </a>
         </h3>
 
-        {%- if site.show_excerpts -%}
+        {%- if post.description -%}
         <p class="post-excerpt">
-          {{ post.excerpt }}
+          {{ post.description }}
         </p>
         {%- endif -%}
       </li>

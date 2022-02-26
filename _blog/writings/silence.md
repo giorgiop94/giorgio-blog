@@ -1,6 +1,6 @@
 ---
 title: Gift Yourself Some Silence
-excerpt: >
+description: >
   As new technologies continue to rush into our lives, it is critical that we ask ourselves how they will affect us, and how we can use them for our greatest benefit.
   For the past few years, we’ve been doing that somewhat successfully with smartphones and social media.
 ---
