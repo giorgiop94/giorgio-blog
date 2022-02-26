@@ -6,7 +6,7 @@ author:
   name: Giorgio
   email: parlato.giorgio@gmail.com
 
-show_excerpts: false # set to true to show excerpts on the homepage
+show_excerpts: true
 
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:

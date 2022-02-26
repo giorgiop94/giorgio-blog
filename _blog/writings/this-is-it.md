@@ -1,4 +1,6 @@
 ---
+title: This is It
+excerpt: Visiting Blue Cliff Monastery, one of Thich Nhat Hanh’s mindful oases, has been one of my favorite experiences during my three years in the US.
 ---
 
 ## *a simple reminder to enjoy the present moment*
