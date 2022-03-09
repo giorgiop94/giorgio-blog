@@ -35,7 +35,7 @@ Yet, our phones can also make us miserable and cause us to waste many hours of o
 
 All these activities make us feel worse. Yet we still do them, on autopilot, guided by our phone master.
 
-![Photo showing a couple on bed distracted by their phones](assets/blog/phone-addiction-1_edited-2.jpg)![Photo showing a couple on bed distracted by their phones](assets/blog/phone-addiction-1_edited-2.jpg)Photo by **[Ketut
+![Photo showing a couple on bed distracted by their phones](/assets/blog/phone-addiction-1_edited-2.jpg)![Photo showing a couple on bed distracted by their phones](assets/blog/phone-addiction-1_edited-2.jpg)Photo by **[Ketut
 Subiyanto](https://www.pexels.com/@ketut-subiyanto?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)** from 
 **[Pexels](https://www.pexels.com/photo/multiracial-couple-surfing-mobile-phones-lying-in-bed-with-dog-after-awakening-4545196/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)**And then we
 have notifications. 
@@ -50,7 +50,7 @@ throughout the day.
 [*The average person checks their phone 96 times a day*](https://www.prnewswire.com/news-releases/americans-check-their-phones-96-times-a-day-300962643.html)*.* Are we consciously choosing to do so? Or are we the
 slaves of our Phone Master?
 
-![Photo showing people in the bathroom all distracted by their phones](assets/blog/phone-addiction-4_edited.jpg)![Photo showing people in the bathroom all distracted by their phones](assets/blog/phone-addiction-4_edited.jpg)Photo
+![Photo showing people in the bathroom all distracted by their phones](/assets/blog/phone-addiction-4_edited.jpg)![Photo showing people in the bathroom all distracted by their phones](assets/blog/phone-addiction-4_edited.jpg)Photo
 by **[ROMAN ODINTSOV](https://www.pexels.com/@roman-odintsov?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)** from 
 **[Pexels](https://www.pexels.com/photo/group-of-people-in-public-toilet-using-smartphones-4553370/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)**[Tristan Harris, ex design ethicist at
 Google, explained](https://medium.com/thrive-global/how-technology-hijacks-peoples-minds-from-a-magician-and-google-s-design-ethicist-56d62ef5edf3) that phones (and apps) are designed to create an addictive
@@ -136,7 +136,7 @@ To add Screen Time as a Widget to your Day View: swipe right to get to the Today
 
 Your phone is designed to be an attractive and addictive toy.
 
-![Photo showing how addictive the phone can be](assets/blog/youssef-sarhan-tze1kKj7Lgg-unsplash-1024x769.jpg)![Photo showing how addictive the phone can be](assets/blog/youssef-sarhan-tze1kKj7Lgg-unsplash-1024x769.jpg)Photo by
+![Photo showing how addictive the phone can be](/assets/blog/youssef-sarhan-tze1kKj7Lgg-unsplash-1024x769.jpg)![Photo showing how addictive the phone can be](assets/blog/youssef-sarhan-tze1kKj7Lgg-unsplash-1024x769.jpg)Photo by
 [Youssef Sarhan](https://unsplash.com/@youssefsarhan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on
 [Unsplash](https://unsplash.com/s/photos/smartphone?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)Did you ever catch yourself unlocking your phone, swiping through the pages, and putting it
 back in your pocket?

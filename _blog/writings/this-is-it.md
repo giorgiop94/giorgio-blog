@@ -13,7 +13,7 @@ Since then, Thay has been inspiring millions of people to lead a more compassion
 
 I was lucky to stay three days at Blue Cliff Monastery. A beautiful community in the middle of Upstate New York’s wilderness.
 
-![Photo of Blue Cliff Monastery](assets/blog/Blue-Cliff-Monastery-Photo.jpg)
+![Photo of Blue Cliff Monastery](/assets/blog/Blue-Cliff-Monastery-Photo.jpg)
 
 The street address of Blue Cliff Monastery is really 3 Mindfulness Road, photo from [BlueCliffMonastery](https://www.bluecliffmonastery.org/)
 

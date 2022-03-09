@@ -116,7 +116,7 @@ Companies are realizing the viability of remote work and that its adoption can s
 People are starting to move back to rural areas, where they can enjoy larger spaces, more time in nature, and engage more with the local community (interestingly, 
 (https://www.brookings.edu/research/even-before-coronavirus-census-shows-u-s-cities-growth-was-stagnating/), but the pandemic accelerated it)
 
-![](assets/blog/kylie-lugo-t0BavJY0M-U-unsplash-1024x683.jpg)
+![](/assets/blog/kylie-lugo-t0BavJY0M-U-unsplash-1024x683.jpg)
 
 2. We need community and a sense of belonging
 
@@ -190,7 +190,7 @@ In the past sections, I outlined some of the major trends that I see as being co
 However, I find it important to stress that to be truly transformative, these collectives can’t just isolate themselves from the world and simply connect with other regenerative groups. Earth regeneration happens 
 at the bioregional scale, and for this reason, it is fundamental that **regenerative communities get involved and form key partnerships with other local actors in their bioregions**.
 
-![](assets/blog/jumpstory-download20210723-195926-1024x681.jpg)
+![](/assets/blog/jumpstory-download20210723-195926-1024x681.jpg)
 Failing to do so at an early stage can lead to incomprehension and tensions between a community and the wider population around it, leading to lose-lose situations.
 
 Instead, fostering collaboration and understanding within the bioregion from the early days can be a critical component of success, both from a community and environmental perspective.
