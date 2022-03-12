@@ -1,7 +1,9 @@
 ---
 title: Take a Moment to Re-Assess
+description: >
+  What a clumsy Vietnamese restaurant taught me about Personal Reviews
 ---
-###### What a clumsy Vietnamese restaurant taught me about Personal Reviews
+*What a clumsy Vietnamese restaurant taught me about Personal Reviews*
 
 *Reading time: 4 minutes*
 

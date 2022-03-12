@@ -1,9 +1,10 @@
 ---
-title: This is It
-description: Visiting Blue Cliff Monastery, one of Thich Nhat Hanh’s mindful oases, has been one of my favorite experiences during my three years in the US.
+title: This is it
+description: >
+  a simple reminder to enjoy the present moment
 ---
 
-## *a simple reminder to enjoy the present moment*
+*a simple reminder to enjoy the present moment*
 
 Visiting Blue Cliff Monastery, one of Thich Nhat Hanh’s mindful oases, has been one of my favorite experiences during my three years in the US.
 
@@ -13,7 +14,7 @@ Since then, Thay has been inspiring millions of people to lead a more compassion
 
 I was lucky to stay three days at Blue Cliff Monastery. A beautiful community in the middle of Upstate New York’s wilderness.
 
-![Photo of Blue Cliff Monastery](/assets/blog/Blue-Cliff-Monastery-Photo.jpg)
+![Photo of Blue Cliff Monastery](assets/blog/Blue-Cliff-Monastery-Photo.jpg)
 
 The street address of Blue Cliff Monastery is really 3 Mindfulness Road, photo from [BlueCliffMonastery](https://www.bluecliffmonastery.org/)
 
@@ -43,7 +44,7 @@ That’s how I see it.
 
 Our minds constantly look forward to future events, telling us that after this or that happens, we will finally be happy. The truth is that there is only this moment. Now.
 
-If you are not able to enjoy yourself now, you won’t be able to enjoy yourself in the future. But our minds are habit-forming machines and most of us are in the habit of looking forward to future events for 
+If you are not able to enjoy yourself now, you won’t be able to enjoy yourself in the future. But our minds are habit-forming machines and most of us are in the habit of looking forward to future events for
 happiness. How can we get out of this habit?
 
 Simply get in the habit of reminding yourself:
@@ -79,8 +80,7 @@ For about a week, I committed myself to pay attention to all the small things in
 
 I even made a wallpaper reminder for my PC and my phone that constantly reminds me.
 
-![This is it Desktop Wallpaper](https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_1024,h_640/https://giorgiop.com/wp-content/uploads/2020/06/thisisit_desktop-1-1024x640.png)![This is it Desktop 
-Wallpaper](https://cdn.shortpixel.ai/client/q_lqip,ret_wait,w_1024,h_640/https://giorgiop.com/wp-content/uploads/2020/06/thisisit_desktop-1-1024x640.png)
+![This is it Desktop Wallpaper](https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_1024,h_640/https://giorgiop.com/wp-content/uploads/2020/06/thisisit_desktop-1-1024x640.png)
 
 A simple sentence that, helps me to get back to the present moment and enjoy it to the fullest.
 

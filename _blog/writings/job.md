@@ -1,9 +1,10 @@
 ---
+title: Trading Money For Happiness
+description: >
+  Why I quit my job in the middle of COVID-19 | Estimated reading time: 7 mins
 ---
 
-# Trading money for happiness
-
-### *Why I quit my job in the middle of COVID-19*
+*Why I quit my job in the middle of COVID-19*
 
 It might sound crazy.
 
@@ -24,10 +25,10 @@ But this job has also made me miserable pretty much since I started it, nine mon
 * I often **had to** work at nights, which I hated.
 * I didn’t enjoy the job and did not find it meaningful.
 
-During the first few months, at least, the thrill of learning kept me motivated. I also thought that I could use the role as an opportunity to train my stress-tolerance and face my fears (such as fear of conflict 
+During the first few months, at least, the thrill of learning kept me motivated. I also thought that I could use the role as an opportunity to train my stress-tolerance and face my fears (such as fear of conflict
 and fear of being judged negatively).
 
-Quickly, as the learning curve flattened, the thrill went away. My tolerance for stress improved over time, but not as much as I wanted it to, and I still did not like the role. So about four months in, I went 
+Quickly, as the learning curve flattened, the thrill went away. My tolerance for stress improved over time, but not as much as I wanted it to, and I still did not like the role. So about four months in, I went
 looking for other opportunities, applying for other jobs and interviewing.
 
 Then COVID-19 happened, and the companies I was interviewing with started a hiring freeze.
@@ -40,33 +41,33 @@ Either I stay in a job that’s making me unhappy, or I take a leap into the unk
 
 **Happiness should be the main guiding principle for the decisions in my life, not money.** 
 
-Financial stability surely contributes to feelings of security and satisfaction. Yet, after a certain threshold of security, it is not worth sacrificing happiness today by doing something you despise, just for 
+Financial stability surely contributes to feelings of security and satisfaction. Yet, after a certain threshold of security, it is not worth sacrificing happiness today by doing something you despise, just for
 more money.
 
 From a long-term career standpoint, I realized that it would not make sense for me to continue “wasting” my time doing something that I am not passionate about.
 
-I found it useful to think about the [**“explore vs exploit”**](https://medium.com/10x-curiosity/the-multi-armed-bandit-to-explore-or-exploit-88556cb67c1c) algorithm. **As a young person, it’s good to still be in 
+I found it useful to think about the [**“explore vs exploit”**](https://medium.com/10x-curiosity/the-multi-armed-bandit-to-explore-or-exploit-88556cb67c1c) algorithm. **As a young person, it’s good to still be in
 the exploration phase, trying different things looking for what I love.**
 
 Found something I don’t’ like? Ok. Time to move on to the next one…
 
 Once I find it, I’ll go all-in on that (exploit).
 
-On top of that, thanks to the internet, **the world is full of entrepreneurial opportunities looking to be discovered.** I am confident that, if I go about this in a smart way, even without a regular job, I will 
+On top of that, thanks to the internet, **the world is full of entrepreneurial opportunities looking to be discovered.** I am confident that, if I go about this in a smart way, even without a regular job, I will
 be able to support myself financially.
 
 Ideally, by doing something I enjoy.
 
 
 > The Internet has massively broadened the possible space of careers. Most people haven’t figured this out yet.
-> 
+>
 >  — Naval (@naval) [May 31, 2018](https://twitter.com/naval/status/1002103832879419392?ref_src=twsrc%5Etfw)
 
 ## **Forces pulling me back**
 
 It was clear to me that I should leave. At the same time, I found myself *unable to “pull the trigger”.*
 
-It’s funny. I had heard of people stuck in similar situations and **I was always surprised to hear that they stayed in jobs they hated, even when they didn’t “really need” the money.** When talking to them (from 
+It’s funny. I had heard of people stuck in similar situations and **I was always surprised to hear that they stayed in jobs they hated, even when they didn’t “really need” the money.** When talking to them (from
 an outside, uninvolved perspective), it seemed so obvious that it doesn’t make sense to do something you hate just for the money([Gary Vee puts it well](https://www.youtube.com/watch?v=uDJUB2ZnBGA)).
 
 Yet, here I was, doing the exact same thing. Going against what I believed in.
@@ -78,11 +79,11 @@ Digging deeper, I realized that there were some powerful forces pulling be back:
 1. I had a hard time letting go of the security of my monthly salary. I had gotten addicted. Confirming Nassim Taleb’s quote:.
 
 
-> *“The three most harmful addictions are heroin, carbohydrates, and a monthly salary.”* 
-> 
+> *“The three most harmful addictions are heroin, carbohydrates, and a monthly salary.”*
+>
 > *– Nassim Taleb*
-> 
-> 
+>
+>
 
 2. I realized that I had self-doubt and external pressures that wanted me to stay safe.
 * *“Will I really be able to make a living?”*
@@ -97,29 +98,29 @@ At least, now I would be able to address my doubts and fears directly, hoping th
 
 **To break out of the salary addiction, I had to accept that I would have to live more frugally and get rid of the unnecessary.** I also needed to feel that it would be somewhat *“safe”* to quit.
 
-So I made a detailed budget that, if followed, would allow me to support myself for a year, assuming no income (to err on the side of safety). **Cutting expenses actually felt good, as I was earning my freedom.** 
+So I made a detailed budget that, if followed, would allow me to support myself for a year, assuming no income (to err on the side of safety). **Cutting expenses actually felt good, as I was earning my freedom.**
 This gave me the confidence to not worry about money too much. 
 
-This quote from Alan Watts’ epic speech [What If Money Were No Object](https://soundcloud.com/statikblaze/alan-watts-what-if-money-was) resonated a lot with me during this time, helping me to finally let go of my 
+This quote from Alan Watts’ epic speech [What If Money Were No Object](https://soundcloud.com/statikblaze/alan-watts-what-if-money-was) resonated a lot with me during this time, helping me to finally let go of my
 “salary addiction”.
 
 
 >  *“Forget the money, because if you say that getting the money is the most important thing, you will spend your life completely wasting your time. You will be doing things you don’t like doing, in order to go on
 living, which is doing things you don’t like doing.*
-> 
+>
 > *Which is stupid!*
-> 
-> *Better to have a short life that is full of what you like doing, than a long life spent in a miserable way.”* 
-> 
+>
+> *Better to have a short life that is full of what you like doing, than a long life spent in a miserable way.”*
+>
 > *–* Alan Watts
-> 
-> 
+>
+>
 
 To deal with my self-doubt, the most important part was becoming aware of it.
 
 After that, I simply had to willingly move against it. 
 
-**I realized that the only way to get rid of self-doubt is to act despite it, and prove the doubter within wrong over and over.** 
+**I realized that the only way to get rid of self-doubt is to act despite it, and prove the doubter within wrong over and over.**
 
 I had to “just do it” and prove to myself that I’d be able to support myself doing something I enjoy.
 
@@ -136,7 +137,7 @@ So I asked myself:
 
 They say that suffering is a teacher. This experience confirms it. 
 
-I had considered these questions before, but was never able to come up with a clear answer. This time though, the pain caused by the job forced me to confront myself as I never did before. This process took time. 
+I had considered these questions before, but was never able to come up with a clear answer. This time though, the pain caused by the job forced me to confront myself as I never did before. This process took time.
 I did a lot of journaling.
 
 At some point it hit me. **What I love doing the most is learning.\**\
@@ -148,10 +149,10 @@ I don’t know what the future holds, but I *trust* that in the grand scheme of 
 
 
 > “You are a child of the universe no less than the trees and the stars; you have a right to be here. And **whether or not it is clear to you, no doubt the universe is unfolding as it should.”**
-> 
+>
 > – Max Ehrmann
-> 
-> 
+>
+>
 
 **Life is now. We don’t even know if we are going to be alive tomorrow (shit happens). Postponing happiness to some future retirement or vacation simply doesn’t make sense.**
 
