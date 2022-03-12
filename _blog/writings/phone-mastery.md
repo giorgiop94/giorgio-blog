@@ -1,7 +1,9 @@
 ---
-title: Turn your phone master into your beautiful servant
+title: Turning the phone master into a beautiful servant
+description: >
+  How to set one-time systems to break distractions, reduce time waste and use your phone to move toward your goals
 ---
-###### *How to set one-time systems to break distractions, reduce time waste and use your phone to move toward your goals*
+*How to set one-time systems to break distractions, reduce time waste and use your phone to move toward your goals*
 
 > *“The Mind is a beautiful servant, but a dangerous master”.*
 >
