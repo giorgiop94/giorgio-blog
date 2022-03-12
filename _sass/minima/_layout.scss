@@ -218,7 +218,7 @@
 
 .post-list-heading {
   @include relative-font-size(1.2);
-  margin-bottom: $spacing-unit;
+  margin-bottom: $spacing-unit 0.5;
 }
 
 .post-list {
@@ -239,7 +239,7 @@
 
 .post-excerpt {
   font-style: italic;
-  padding: $spacing-unit 2;
+  margin-bottom: $spacing-unit 2;
     }
 
 .post-link {
