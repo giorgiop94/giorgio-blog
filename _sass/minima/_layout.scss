@@ -212,6 +212,8 @@
 .page-heading {
   font-family: $heading-font-family;
   @include relative-font-size(2);
+  border-bottom: 1px solid $border-color-01;
+  min-height: $spacing-unit * 1.865;
 }
 
 .post-list-heading {
@@ -232,9 +234,12 @@
   font-size: 13px;
   margin-bottom: 10px;
   text-transform: uppercase;
-  font-style: italic;
   color: hsl(219, 0%, 30%);
 }
+
+.post-excerpt {
+  font-style: italic;
+    }
 
 .post-link {
   display: block;
