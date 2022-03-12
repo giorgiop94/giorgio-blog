@@ -4,9 +4,8 @@ layout: default
 <div class="home">
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
-    border-bottom: 1px solid $border-color-01;
-    min-height: $spacing-unit * 1.865;
   {%- endif -%}
+
   {{ content }}
 
   {% assign posts = paginator.posts %}
