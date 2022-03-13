@@ -1,7 +1,7 @@
 ---
-layout: blog 
-title: Writings 
+layout: blog
+title: Writing
 pagination:
   enabled: true
-  category: Writings
+  category: Writing
 ---
