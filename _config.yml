@@ -50,6 +50,7 @@ defaults:
       path: "_blog/*/*.*"
     values:
       layout: post
+      toc: true
 
   - scope:
       path: "_blog/letters/*.*"
@@ -75,6 +76,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-paginate-v2
+  - jekyll-toc
 
 exclude:
   - .editorconfig

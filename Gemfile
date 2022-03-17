@@ -10,6 +10,7 @@ gem "jekyll-seo-tag", "~> 2.1"
 
 # Custom
 gem "jekyll-paginate-v2"
+gem "jekyll-toc"
 
 # Local Build on Arch Linux
 gem "webrick", "~> 1.7"
