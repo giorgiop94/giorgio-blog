@@ -37,10 +37,11 @@ Yet, our phones can also make us miserable and cause us to waste many hours of o
 
 All these activities make us feel worse. Yet we still do them, on autopilot, guided by our phone master.
 
-![Photo showing a couple on bed distracted by their phones](/assets/blog/phone-addiction-1_edited-2.jpg)![Photo showing a couple on bed distracted by their phones](assets/blog/phone-addiction-1_edited-2.jpg)Photo by **[Ketut
-Subiyanto](https://www.pexels.com/@ketut-subiyanto?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)** from 
-**[Pexels](https://www.pexels.com/photo/multiracial-couple-surfing-mobile-phones-lying-in-bed-with-dog-after-awakening-4545196/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)**And then we
-have notifications. 
+![Photo showing a couple on bed distracted by their phones](/assets/blog/phone-addiction-1_edited-2.jpg)
+Photo by **[Ketut Subiyanto](https://www.pexels.com/@ketut-subiyanto?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)** from 
+[Pexels](https://www.pexels.com/photo/multiracial-couple-surfing-mobile-phones-lying-in-bed-with-dog-after-awakening-4545196/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
+
+And then we have notifications. 
 
 They unfailingly distract us, make us lose focus, and take us away from our loved ones. To continue the analogy to an extreme, you can think of notifications as the Master calling his slave to his attention
 throughout the day.
@@ -60,8 +61,7 @@ feeling, similar to that in slot machines.
 
 They do that through “intermittent rewards”. 
 
-You pull a lever (open an app, unlock your phone), and either get a prize (likes, notifications) or nothing. This mechanism has been found to
-(https://www.inc.com/melody-wilding/the-psychological-reason-you-cant-stop-checking-yo.html)
+You pull a lever (open an app, unlock your phone), and either get a prize (likes, notifications) or nothing. This mechanism has been found to [maximize addictiveness.](https://www.inc.com/melody-wilding/the-psychological-reason-you-cant-stop-checking-yo.html)
 
 ## Taming the Master
 
@@ -74,8 +74,7 @@ hooked”.](https://medium.com/thrive-global/how-technology-hijacks-peoples-mind
 
 Yet, there are some steps that we can take to move in that direction.
 
-A good way to think about self-control problems, (as explained by Thaler and Sunstein in [*Nudge*](https://www.amazon.com/Nudge-Improving-Decisions-Health-Happiness/dp/014311526X/ref=as_li_ss_tl?crid=3SM6IM5WTBT3S
-&dchild=1&keywords=nudge+thaler&qid=1593344056&sprefix=nudge+thal,aps,371&sr=8-1&linkCode=ll1&tag=giorgiopa-20&linkId=8f31c56845e4b957d2d9d1d3c71b2401&language=en_US)*),* is to **see any person as “*****containing
+A good way to think about self-control problems, (as explained by Thaler and Sunstein in [*Nudge*](https://www.amazon.com/Nudge-Improving-Decisions-Health-Happiness/dp/014311526X/ref=as_li_ss_tl?crid=3SM6IM5WTBT3S&dchild=1&keywords=nudge+thaler&qid=1593344056&sprefix=nudge+thal,aps,371&sr=8-1&linkCode=ll1&tag=giorgiopa-20&linkId=8f31c56845e4b957d2d9d1d3c71b2401&language=en_US)*),* is to **see any person as “*****containing
 two semi-autonomous selves, a far-sighted Planner and a myopic Doer”*****.**
 
 – Our *Planner* is rational and concerned with our long-term well-being.
@@ -119,8 +118,7 @@ Simply becoming aware of an unconscious bad habit, can be a great motivator to s
 
 On both Android and iPhone this is now very easy. Both systems have native apps that track your time on screen, the number of times you unlock your phone, and the time spent on each app.
 
-![Comparing Android and iPhone apps to track time spent on phone](https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_1012,h_506/https://giorgiop.com/wp-content/uploads/2020/07/TIme-tracking.png)![Comparing
-Android and iPhone apps to track time spent on phone](https://cdn.shortpixel.ai/client/q_lqip,ret_wait,w_1012,h_506/https://giorgiop.com/wp-content/uploads/2020/07/TIme-tracking.png)Seeing the raw numbers once in
+![Comparing Android and iPhone apps to track time spent on phone](assets/blog/TIme-tracking.png)Seeing the raw numbers once in
 a while though, may not be very meaningful. You may easily forget them and stop paying attention after a while.
 
 For this reason, I recently started logging my main stats in a spreadsheet as part of my weekly review. If you want to try you can create a copy of the spreadsheet I created
@@ -138,9 +136,9 @@ To add Screen Time as a Widget to your Day View: swipe right to get to the Today
 
 Your phone is designed to be an attractive and addictive toy.
 
-![Photo showing how addictive the phone can be](/assets/blog/youssef-sarhan-tze1kKj7Lgg-unsplash-1024x769.jpg)![Photo showing how addictive the phone can be](assets/blog/youssef-sarhan-tze1kKj7Lgg-unsplash-1024x769.jpg)Photo by
-[Youssef Sarhan](https://unsplash.com/@youssefsarhan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on
-[Unsplash](https://unsplash.com/s/photos/smartphone?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)Did you ever catch yourself unlocking your phone, swiping through the pages, and putting it
+![Photo showing how addictive the phone can be](/assets/blog/youssef-sarhan-tze1kKj7Lgg-unsplash-1024x769.jpg)
+
+Did you ever catch yourself unlocking your phone, swiping through the pages, and putting it
 back in your pocket?
 
 That’s very common and is driven by our desire to seek novelty. (colorful icons and notifications).
@@ -160,21 +158,21 @@ You can start using a plain background for your home and lockscreen, ideally bla
 
 **Using black automatically destroys the idea that your phone is a shiny toy to look at all the time.**
 
-![Image showing a simple black background, uncluttered by notifications](https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_1012,h_506/https://giorgiop.com/wp-content/uploads/2020/07/Lockscreen.png)![Image
-showing a simple black background, uncluttered by notifications](https://cdn.shortpixel.ai/client/q_lqip,ret_wait,w_1012,h_506/https://giorgiop.com/wp-content/uploads/2020/07/Lockscreen.png)The first few days it
-will seem awfully boring. That’s good! Over time, you may even grow to like the minimalist, zen background.
+![Image showing a simple black background, uncluttered by notifications](hassets/blog/Lockscreen.png)
 
-What’s most important is that unconsciously, your phone will be less attractive. As a plus, your phone’s battery will also
+The first few days it will seem awfully boring. That’s good! Over time, you may even grow to like the minimalist, zen background.
+
+What’s most important is that unconsciously, your phone will be less attractive. As a plus, your phone’s battery will also [last longer]
 (https://sea.mashable.com/tech/7010/dark-mode-on-the-iphone-can-save-massive-amounts-of-battery-life-test-shows).
 
-If instead, you want to go a step further, you can set-up your phone to grayscale, which has been (https://www.nytimes.com/2018/01/12/technology/grayscale-phone.html) to decrease smartphone use.
+If instead, you want to go a step further, you can set-up your phone to grayscale, which has been [shown](https://www.nytimes.com/2018/01/12/technology/grayscale-phone.html) to decrease smartphone use.
 
 **With gray scale, you strip away all the neuron-stimulating colors on your phone that contribute to making our phones addictive.**
 
 ![Image comparing Grayscale and full
-colors](https://lh6.googleusercontent.com/r9kU1BNuZ_O1msMOqjN3u9t1UuLvQh16HxOq1tHI6E7SS_jarloCmjaBEz1k6O2MAg1eX8jh_ZJ7qOmbdzunUOw5N9LisnjDximSKXSdcXXRLPgNB1Mk89cIRzhGOOcSEDfkPgww)![Image comparing Grayscale and
-full colors](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)Instead of going full-on grayscale, I set up my phone to automatically go on grayscale
-at night, to limit my phone usage before bed and ensuring a good night’s sleep.
+colors](assets/blog/grayscale_phone.png)
+
+Instead of going full-on grayscale, I set up my phone to automatically go on grayscale at night, to limit my phone usage before bed and ensuring a good night’s sleep.
 
 ***Android Instructions:*** Settings → Digital Wellbeing → Bedtime Mode → Customize → Grayscale (on)
 
@@ -203,10 +201,9 @@ If you have everything on one page, it’s easier to be intentional with the app
 screen(s) to encourage positive behaviors and discourage negative ones (inspired by [Jordan Lejuwaann](https://medium.com/@jlejuwaan/9-micro-hacks-that-made-me-faster-happier-and-more-sane-350f09116111)).
 
 ![Image showing how a one page background can easily be arranged to increase
-productivity](https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_1012,h_506/https://giorgiop.com/wp-content/uploads/2020/07/Home-screen-arrangetrading-money-for-happiness.png)![Image showing how a one page
-background can easily be arranged to increase
-productivity](https://cdn.shortpixel.ai/client/q_lqip,ret_wait,w_1012,h_506/https://giorgiop.com/wp-content/uploads/2020/07/Home-screen-arrangetrading-money-for-happiness.png)You can do so by following these
-steps:
+productivity](assets/blog/Home-screen-arrangetrading-money-for-happiness.png)
+
+You can do so by following these steps:
 
 **i*****. Place the apps that you want to use more at the bottom, close to the reach of your thumb.***
 
@@ -238,8 +235,7 @@ You may have heard similar advice before. If so, it’s because it works! Really
 
 This might be the most effective measure that I’ve taken out of all in this article.
 
-**A lot of unintentional phone usage happens in bed, either before going to sleep or upon waking up. In either case, it’s harmful (for your** [**sleep
-quality**](https://www.cnn.com/2016/11/09/health/smartphones-harm-sleep/index.html) **or the way you** [**start your
+**A lot of unintentional phone usage happens in bed, either before going to sleep or upon waking up. In either case, it’s harmful (for your** [**sleep quality**](https://www.cnn.com/2016/11/09/health/smartphones-harm-sleep/index.html) **or the way you** [**start your
 day**](https://www.businessinsider.com/why-you-shouldnt-check-your-phone-first-thing-in-the-morning-2016-5)**) and causes a lot of time waste.**
 
 Make a rule and stick to it for sometime.
@@ -248,8 +244,9 @@ Once you try it, even for a few days, whenever you fall back and use your phone 
 
 This will create a positive feedback loop. You only need to set it in motion and watch it do the work.
 
-!(https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_1012,h_506/https://giorgiop.com/wp-content/uploads/2020/07/phone-on-bed-loop-black.png)!(https://cdn.shortpixel.ai/client/q_lqip,ret_wait,w_1012,h_506/https://
-giorgiop.com/wp-content/uploads/2020/07/phone-on-bed-loop-black.png)### 4. Nurture your focus and attention
+!(assets/blog/phone-on-bed-loop-black.png)
+
+### 4. Nurture your focus and attention
 
 **“Notifications” is a nicer word to mean “distractions”.**
 
@@ -281,8 +278,9 @@ A way around this that worked well for me was to turn off the notifications on t
 locked. **The lock screen becomes a sort of zen, safe place, instead of an overwhelming, “urgent” list of things to address.**
 
 ![Uncluttered vs cluttered lockscreen on
-Android](https://lh5.googleusercontent.com/sq_82hgdlYXpHyeXSdS-RjnQAwMMN37MDHItDTWwoRIzU4WcZmxoyY7BZybr2iKZ9mN4OAT9f_pmtR7Wla2IaHqQJxQ69OLoBoRWfQv42uH-SM5TCj7Fx0js6ngkhxbSGuVHdezC)![Uncluttered vs cluttered
-lockscreen on Android](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)***On Android:*** to select which notifications you want to see on your
+Android](assets/blog/uncluttered_lock_screen.png)
+
+***On Android:*** to select which notifications you want to see on your
 lockscreen and which ones you don’t go to Settings → Apps and notifications → Select an app → Select a type of notification → Advanced → Lock Screen → Don’t show notifications at all
 
 If you want to go extreme and turn off all lockscreen notifications go to Settings → Display. → Advanced → Lockscreen Display → Under Lockscreen select “do not show notifications at all”.
@@ -330,4 +328,4 @@ As I started writing this article I became more serious about these concepts and
 If you read this far, I’d love to hear your thoughts on the subject and any feedback if you implemented any of these tips.
 
 This post was partly inspired by [Jordan Lejuwann](https://twitter.com/jlejuwaan)‘s article [9 Micro-Hacks That Made Me Faster, Happier and More
-Sane](https://medium.com/@jlejuwaan/9-micro-hacks-that-made-me-faster-happier-and-more-sane-350f09116111) and by this Kunal’s (https://twitter.com/CrazyPolymath/status/1114710774503497730).
+Sane](https://medium.com/@jlejuwaan/9-micro-hacks-that-made-me-faster-happier-and-more-sane-350f09116111) and by this Kunal’s [tweet](https://twitter.com/CrazyPolymath/status/1114710774503497730).
