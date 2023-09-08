@@ -80,7 +80,7 @@ For about a week, I committed myself to pay attention to all the small things in
 
 I even made a wallpaper reminder for my PC and my phone that constantly reminds me.
 
-![This is it Desktop Wallpaper](https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_1024,h_640/https://giorgiop.com/wp-content/uploads/2020/06/thisisit_desktop-1-1024x640.png)
+![This is it Desktop Wallpaper](assets/blog/thisisit_desktop-1.png))
 
 A simple sentence that, helps me to get back to the present moment and enjoy it to the fullest.
 
