@@ -53,8 +53,8 @@ throughout the day.
 [*The average person checks their phone 96 times a day*](https://www.prnewswire.com/news-releases/americans-check-their-phones-96-times-a-day-300962643.html)*.* Are we consciously choosing to do so? Or are we the
 slaves of our Phone Master?
 
-![Photo showing people in the bathroom all distracted by their phones](/assets/blog/phone-addiction-4_edited.jpg)![Photo showing people in the bathroom all distracted by their phones](assets/blog/phone-addiction-4_edited.jpg)Photo
-by **[ROMAN ODINTSOV](https://www.pexels.com/@roman-odintsov?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)** from 
+![Photo showing people in the bathroom all distracted by their phones](/assets/blog/phone-addiction-4_edited.jpg)
+Photo by **[ROMAN ODINTSOV](https://www.pexels.com/@roman-odintsov?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)** from 
 **[Pexels](https://www.pexels.com/photo/group-of-people-in-public-toilet-using-smartphones-4553370/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)**[Tristan Harris, ex design ethicist at
 Google, explained](https://medium.com/thrive-global/how-technology-hijacks-peoples-minds-from-a-magician-and-google-s-design-ethicist-56d62ef5edf3) that phones (and apps) are designed to create an addictive
 feeling, similar to that in slot machines.
@@ -118,7 +118,7 @@ Simply becoming aware of an unconscious bad habit, can be a great motivator to s
 
 On both Android and iPhone this is now very easy. Both systems have native apps that track your time on screen, the number of times you unlock your phone, and the time spent on each app.
 
-![Comparing Android and iPhone apps to track time spent on phone](assets/blog/TIme-tracking.png)Seeing the raw numbers once in
+![Comparing Android and iPhone apps to track time spent on phone](/assets/blog/TIme-tracking.png)Seeing the raw numbers once in
 a while though, may not be very meaningful. You may easily forget them and stop paying attention after a while.
 
 For this reason, I recently started logging my main stats in a spreadsheet as part of my weekly review. If you want to try you can create a copy of the spreadsheet I created
@@ -158,7 +158,7 @@ You can start using a plain background for your home and lockscreen, ideally bla
 
 **Using black automatically destroys the idea that your phone is a shiny toy to look at all the time.**
 
-![Image showing a simple black background, uncluttered by notifications](hassets/blog/Lockscreen.png)
+![Image showing a simple black background, uncluttered by notifications](/sassets/blog/Lockscreen.png)
 
 The first few days it will seem awfully boring. That’s good! Over time, you may even grow to like the minimalist, zen background.
 
