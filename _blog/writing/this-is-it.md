@@ -86,5 +86,5 @@ A simple sentence that, helps me to get back to the present moment and enjoy it 
 
 If you’d like to give it a try and download the wallpapers, you can find them here:
 
-- [Desktop](https://giorgiop.com//wp-content/uploads/2020/06/thisisit_desktop-1.png)
-- [Mobile](https://giorgiop.com//wp-content/uploads/2020/06/thisisit_mobile-1.png)
+- [![Desktop](assets/blog/thisisit_desktop-1.png)](/assets/blog/thisisit_desktop-1.png)
+- [![Mobile](assets/blog/thisisit_mobile-1.png)](/assets/blog/thisisit_mobile-1.png)
