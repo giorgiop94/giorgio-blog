@@ -80,11 +80,11 @@ For about a week, I committed myself to pay attention to all the small things in
 
 I even made a wallpaper reminder for my PC and my phone that constantly reminds me.
 
-![This is it Desktop Wallpaper](assets/blog/thisisit_desktop-1.png))
+![This is it Desktop Wallpaper](/assets/blog/thisisit_desktop-1.png))
 
 A simple sentence that, helps me to get back to the present moment and enjoy it to the fullest.
 
 If you’d like to give it a try and download the wallpapers, you can find them here:
 
-- [![Desktop](assets/blog/thisisit_desktop-1.png)](/assets/blog/thisisit_desktop-1.png)
-- [![Mobile](assets/blog/thisisit_mobile-1.png)](/assets/blog/thisisit_mobile-1.png)
+- [[Desktop](assets/blog/thisisit_desktop-1.png)]
+- [[Mobile](assets/blog/thisisit_mobile-1.png)]
