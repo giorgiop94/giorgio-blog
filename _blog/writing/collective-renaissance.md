@@ -1,5 +1,6 @@
 ---
 title: The (Regenerative) Collective Hypothesis
+date: 2021-07-13
 description: >
   Exploring the possibility of an emerging (Regenerative) Collective Era
   Estimated reading time: 12 minutes

@@ -1,5 +1,6 @@
 ---
 title: Diving Into The Wisdom Of Rapper-Philosopher J.Cole
+date: 2020-08-18
 description: >
   How Listening to J.Cole Can Inspire You to Improve Your Life | Estimated reading time: 9 mins
 ---
@@ -15,9 +16,9 @@ Over his career, J.Cole went through a dramatic transformation. From a hungry bo
 appreciate his life [[Love Yours]](https://genius.com/J-cole-love-yourz-lyrics), practicing meditation [[FRIENDS]](https://genius.com/J-cole-friends-lyrics), and expressing true love [[Foldin
 Clothes]](https://genius.com/J-cole-foldin-clothes-lyrics). All while continuing to produce hit singles and platinum albums.
 
-![The evolution of J.Cole](https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_1012,h_506/https://giorgiop.com/wp-content/uploads/2020/08/Cole-transformation-border-1.png)![The evolution of
-J.Cole](https://cdn.shortpixel.ai/client/q_lqip,ret_wait,w_1012,h_506/https://giorgiop.com/wp-content/uploads/2020/08/Cole-transformation-border-1.png)As my perspectives evolved in a similar way, I connected with
-his music on a deeper level. I was able to find connections between Cole’s lyrics and philosophical ideas that can help people improve their lives.
+![The evolution of J.Cole](/assets/blog/Cole-transformation-border-1.png)
+
+As my perspectives evolved in a similar way, I connected with his music on a deeper level. I was able to find connections between Cole’s lyrics and philosophical ideas that can help people improve their lives.
 
 In this essay, I’ll use J.Cole’s lyrics to take you through **an exploration of two common obstacles to happiness and practices to overcome** **them**.
 
@@ -30,7 +31,7 @@ In this essay, I’ll use J.Cole’s lyrics to take you through **an exploration
 
 **“Once I get this, I’ll be happy”**
 
-We’re constantly told by society that to be happy we need to have a lot of money, a beautiful house, success, etc…. While it is true that up to a (https://www.sloww.co/how-much-money-enough/) having more money
+We’re constantly told by society that to be happy we need to have a lot of money, a beautiful house, success, etc…. While it is true that up to a [certain point](https://www.sloww.co/how-much-money-enough/) having more money
 will make us happier, most **people place too much importance on seeking money and material success.**
 
 **We focus on seeking *external*** ***achievements***, thinking that only once we obtain them we will be happy. So, **we neglect our internal state,** and we feel like we’re always lacking until we achieve
@@ -58,7 +59,7 @@ Cole talked about this in an interview on the [Angie Martinez Show](https://www.
 >
 >
 
-[Stoic philosophers](https://giorgiop.com/stoic-joy/) were discussing very similar ideas over two thousand years ago.
+[Stoic philosophers](https://notes.giorgiop.com/book-a-guide-to-the-good-life-by-william-irvine) were discussing very similar ideas over two thousand years ago.
 
 
 > *“If what you have seems insufficient to you, then though you possess the world, you will yet be miserable.”*  *― Seneca*
@@ -66,11 +67,9 @@ Cole talked about this in an interview on the [Angie Martinez Show](https://www.
 >
 
 Today, psychology has explained this phenomenon, known as the [*Hedonic
-Treadmill*](https://en.wikipedia.org/wiki/Hedonic_treadmill#:~:text=The%20hedonic%20treadmill%2C%20also%20known,negative%20events%20or%20life%20changes.). Its idea is that as a person makes more money (or becomes
-famous), he will adapt to his new situation and he will desire more. Thus, in the long run, he will not increase his happiness baseline.
+Treadmill*](https://en.wikipedia.org/wiki/Hedonic_treadmill#:~:text=The%20hedonic%20treadmill%2C%20also%20known,negative%20events%20or%20life%20changes.). Its idea is that as a person makes more money (or becomes famous), he will adapt to his new situation and he will desire more. Thus, in the long run, he will not increase his happiness baseline.
 
-![Graph displaying hedonic adaptation and the happiness baseline](https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_1012,h_506/https://giorgiop.com/wp-content/uploads/2020/08/hedonic-adaptation.png)![Graph
-displaying hedonic adaptation and the happiness baseline](https://cdn.shortpixel.ai/client/q_lqip,ret_wait,w_1012,h_506/https://giorgiop.com/wp-content/uploads/2020/08/hedonic-adaptation.png)Cole also refers to
+![Graph displaying hedonic adaptation and the happiness baseline](/assets/blog/hedonic-adaptation.png)Cole also refers to
 this in [False Prophets](https://genius.com/J-cole-false-prophets-lyrics), where he talks about his friend (and acclaimed rapper) Wale dealing with depression. Even though Wale has hundreds of thousands of fans
 and is successful by any standard, he is still ***“always worried ’bout the critics”*** and “***so bitter he can’t see his own blessings”***.
 
@@ -111,8 +110,7 @@ Bad shit will always happen, to everyone. That’s inevitable. But it’s import
 If you’re constantly complaining and dissatisfied with things that happen to you, people will want to spend less time with you, you’ll have less energy and fewer opportunities. Your life will drown in a downward
 spiral.
 
-![Downward spiral of negativity](https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_1012,h_506/https://giorgiop.com/wp-content/uploads/2020/08/negative-reaction-loopblu.png)![Downward spiral of
-negativity](https://cdn.shortpixel.ai/client/q_lqip,ret_wait,w_1012,h_506/https://giorgiop.com/wp-content/uploads/2020/08/negative-reaction-loopblu.png)Alternatively, you can **choose** to see negative events as
+![Downward spiral of negativity](/assets/blog/negative-reaction-loopblu.png)Alternatively, you can **choose** to see negative events as
 providing you with opportunities to learn and grow. 
 
 Events outside of your control represent the cards that have been handed to you. Complaining about how bad they suck is not going to help. Rather ask yourself, “how can I play these cards to get the best result?”
@@ -123,8 +121,7 @@ Events outside of your control represent the cards that have been handed to you.
 >
 >
 
-![Breaking free of the downward spiral of negativity](https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_1012,h_506/https://giorgiop.com/wp-content/uploads/2020/08/break-the-cycleblu-2.png)![Breaking free of the
-downward spiral of negativity](https://cdn.shortpixel.ai/client/q_lqip,ret_wait,w_1012,h_506/https://giorgiop.com/wp-content/uploads/2020/08/break-the-cycleblu-2.png)With the right mindset, **bad times can also
+![Breaking free of the downward spiral of negativity](/assets/blog/break-the-cycleblu-2.png)With the right mindset, **bad times can also
 help you appreciate more the good times when they (also inevitably) arrive**.
 
 
@@ -169,14 +166,14 @@ We run away from uncomfortable and painful feelings, whether it’s through drug
 
 > *There’s all sorts of trauma from drama that children see\
 > Type of shit that normally would call for therapy\
-> But you know just how it go in our community\****Keep that shit inside it don’t matter how hard it be\****Fast forward, them kids is grown and they blowing trees\
+> But you know just how it go in our community\ **Keep that shit inside it don’t matter how hard it be\** Fast forward, them kids is grown and they blowing trees\
 > And popping pills due to chronic anxiety*
 >
 >
 
 
 > *Without the drugs I want you be comfortable in your skin\
-> I know you so I know you still keep a lot of shit in\****You running from yourself and you buying product again****\
+> I know you so I know you still keep a lot of shit in\ **You running from yourself and you buying product again**\
 > I know you say it helps and no I’m not trying to offend\
 > But I know depression and drug addiction don’t blend*\
 >
@@ -220,39 +217,35 @@ So, how do we deal with this? Cole suggests facing our demons (negative emotions
 ## Practice 2: Meditation and Letting Go of Negative Emotions
 
 
-> *“One thing about your demons they bound to catch up one day\****I’d rather see you stand up and face them than run away****\
+> “One thing about your demons they bound to catch up one day\ **I’d rather see you stand up and face them than run away**\
 > I understand this message is not the coolest to say\
-> But if you down to try it I know of a better way\****Meditate”***\
-> J.Cole [*[FRIENDS](https://genius.com/J-cole-friends-lyrics)*]
+> But if you down to try it I know of a better way\**Meditate”**\
+> J.Cole [[FRIENDS](https://genius.com/J-cole-friends-lyrics)]
 >
 >
 
 
-> *“I sit in silence and find whenever I* ***meditate****\****My fears alleviate, my tears evaporate”****\
+> “I sit in silence and find whenever I **meditate**\ **My fears alleviate, my tears evaporate”**\
 > My faith don’t deviate, ideas don’t have a date\
-> But see* ***I’m growing and getting stronger with every breath\
-> Bringing me closer to Heaven’s doors with every step****\
-> As we speak I’m at peace, no longer scared to die”*\
+> But see **I’m growing and getting stronger with every breath**\
+> **Bringing me closer to Heaven’s doors with every step**\
+> As we speak I’m at peace, no longer scared to die”\
 > J.Cole [[Change](https://genius.com/J-cole-change-lyrics)]
 >
 >
 
-From the lyrics above, it’s clear that **Cole believes in the power of meditation and that it has helped him tremendously.** And he’s not the only one, there’s
-(https://news.harvard.edu/gazette/story/2018/04/harvard-researchers-study-how-mindfulness-may-change-the-brain-in-depressed-patients/) showing that practicing meditation can literally change your brain for the
-better([1](https://media.rickhanson.net/Papers/MeditationConnectivity_a.pdf), [2](https://www.sciencedirect.com/science/article/abs/pii/S092549271000288X)) and help in (https://pubmed.ncbi.nlm.nih.gov/29616846/).
+From the lyrics above, it’s clear that **Cole believes in the power of meditation and that it has helped him tremendously.** And he’s not the only one, there’s [growing scientific evidence](https://news.harvard.edu/gazette/story/2018/04/harvard-researchers-study-how-mindfulness-may-change-the-brain-in-depressed-patients/) showing that practicing meditation can literally change your brain for the
+better([1](https://media.rickhanson.net/Papers/MeditationConnectivity_a.pdf), [2](https://www.sciencedirect.com/science/article/abs/pii/S092549271000288X)) and help in [treating depression and anxiety](https://pubmed.ncbi.nlm.nih.gov/29616846/).
 
 Meditation comes in different techniques and can be a bit overwhelming to start practicing. Just like any other skill, it takes time to learn and “*get better”* at it, but its benefits can be very powerful. There
 are a lot of great resources out there to get started  and I mention a few below. 
 
-In [*FRIENDS*](https://genius.com/J-cole-friends-lyrics) Cole mentions Meditation as a way to deal with suppressed emotions by facing them directly. Similarly, the book [Letting Go](https://www.amazon.com/Letting-
-David-Hawkins-M-D-Ph-D/dp/1401945015/ref=as_li_ss_tl?dchild=1&keywords=letting+go&qid=1597571262&sr=8-2&linkCode=ll1&tag=giorgiopa-20&linkId=a9711dc7f9564adddf564f25cdf83463&language=en_US) by David Hawkins
-discusses a meditation technique to help you feel and face suppressed emotions.
+In [*FRIENDS*](https://genius.com/J-cole-friends-lyrics) Cole mentions Meditation as a way to deal with suppressed emotions by facing them directly. Similarly, the book [Letting Go](https://www.amazon.com/Letting-David-Hawkins-M-D-Ph-D/dp/1401945015/ref=as_li_ss_tl?dchild=1&keywords=letting+go&qid=1597571262&sr=8-2&linkCode=ll1&tag=giorgiopa-20&linkId=a9711dc7f9564adddf564f25cdf83463&language=en_US) by David Hawkins discusses a meditation technique to help you feel and face suppressed emotions.
 
 While facing your demons will be uncomfortable at first, with time you’ll feel lighter and happier as you release suppressed feelings. The book Letting Go can be a bit esoteric. If you’re not into that stuff, I
-curated some (https://giorgiop.com/letgo).
+curated some [book notes that only include its most practical points](https://notes.giorgiop.com/book-letting-go-david-hawkins).
 
-But **meditation is not only a way to deal with negative emotions. I’d say that it is primarily a practice to understand yourself and cultivate peace, resilience, and gratitude.** For example, in [Foldin
-Clothes](https://genius.com/J-cole-foldin-clothes-lyrics), Cole describes how meditating and learning to be present, makes him appreciate times with his wife a lot more.
+But **meditation is not only a way to deal with negative emotions. I’d say that it is primarily a practice to understand yourself and cultivate peace, resilience, and gratitude.** For example, in [Foldin Clothes](https://genius.com/J-cole-foldin-clothes-lyrics), Cole describes how meditating and learning to be present, makes him appreciate times with his wife a lot more.
 
 
 > *“Listen, this is a meditation for me\
@@ -263,7 +256,7 @@ Clothes](https://genius.com/J-cole-foldin-clothes-lyrics), Cole describes how me
 >
 >
 
-If you want to hear Cole talk more about meditation, you can check (https://youtu.be/gsKjJRSmYio?t=257) (minutes 4 to 9), where he discusses how he uses meditation to deal with stressful situations and how he
+If you want to hear Cole talk more about meditation, you can check [this interview](https://youtu.be/gsKjJRSmYio?t=257) (minutes 4 to 9), where he discusses how he uses meditation to deal with stressful situations and how he
 wants to make meditation more a part of his life.
 
  ## Recap: It’s all about the mind
@@ -297,8 +290,7 @@ them really helpful. 
 
 Start slow and feel free to reach out to me if you have any questions/doubts. I’ve been practicing for over six years and I love doing what I can to help people get started.
 
-If sitting to meditate sounds too much for you, you can also practice being present in everyday moments, which will also help you enjoy them more. [I wrote a short essay on how I do
-this](https://giorgiop.com/this-is-it/).
+If sitting to meditate sounds too much for you, you can also practice being present in everyday moments, which will also help you enjoy them more. [I wrote a short essay on how I do this](https://giorgiop.com/this-is-it/).
 
 
 
