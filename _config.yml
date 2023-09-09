@@ -1,6 +1,6 @@
 ---
 title: Giorgio
-permalink: pretty
+permalink: /:title/
 
 author:
   name: Giorgio
