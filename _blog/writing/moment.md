@@ -1,5 +1,6 @@
 ---
 title: Take a Moment to Re-Assess
+date: 2020-10-19
 description: >
   What a clumsy Vietnamese restaurant taught me about Personal Reviews
 ---
@@ -9,18 +10,16 @@ description: >
 
 ---
 
-This essay was originally sent through my newsletter – [INTERMITTENT
-INSIGHTS](https://giorgiop.com/letters/)
+This essay was originally sent through my newsletter – [INTERMITTENT INSIGHTS](https://giorgiop.com/letters/)
 
 A few months ago, I visited the most disorganized “restaurant” I’ve ever been to.
 
 A modest but trendy street food joint with over fifty customers perching on tiny plastic chairs. Something
 like this:
 
-![](https://lh5.googleusercontent.com/2f-VfihOSBr5JhzOuIryn1k2zUViZsgdGBL1wqNLJ9s2nDndEeMiWpjE6SxnTBdXdwbW
-7Do0tvNVTl3pnDK4m2ilEnWrGNRcWQc_xm9mCOhp58Z7bB2kUrOT42X5UIAsGY0I1Prj)![](data:image/svg+xml,%3Csvg%20xmlns
-=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)There were 5-7 waiters,
-and none of them had a clue which table to deliver each dish.
+![vietnamese restaurant](/assets/blog/restauran.png)
+
+There were 5-7 waiters, and none of them had a clue which table to deliver each dish.
 
 Every time food came out of the “kitchen” (it was more of a food stall), a waiter would walk around
 feeling lost like a bee in a faux flower shop, trying to randomly guess the correct table.
@@ -65,11 +64,7 @@ running us.**
 It takes as little as 15 minutes/week to assess if you are spending time in the best way to move towards
 where you want to be. Then, you can figure out ways to improve.
 
-> Working hard on the wrong thing leads to frustration, not progress
->
-> – (https://twitter.com/JamesClear?ref_src=twsrc%5Etfw) (https://t.co/HL4bLJaQOk)
->
-— Giorgio Parlato (@giorgiop\_) [September 5, 2020](https://twitter.com/giorgiop_/status/1302273357606318085?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">Working hard on the wrong thing leads to frustration, not progress <br><br>- <a href="https://twitter.com/JamesClear?ref_src=twsrc%5Etfw">@JamesClear</a> <a href="https://t.co/HL4bLJaQOk">pic.twitter.com/HL4bLJaQOk</a></p>&mdash; giorgio (@giorgiop_) <a href="https://twitter.com/giorgiop_/status/1302273357606318085?ref_src=twsrc%5Etfw">September 5, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Where do you want to go?
 
@@ -91,7 +86,7 @@ answers.
 
 ![](https://lh6.googleusercontent.com/YblT-U3yo4kL0pA7J2xxnsF7KmvHPNEQcM_wXVprgZcrdjmE4FeWS6wW7HTiAwRZB_Dw878IkYdc3R59Hj_6VWj3MuMAuNyrMzDvJeb9xqTOmmnT-y2U1vsH8of9WDHSCcse88h9)![](data:image/svg+xml%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)
 
-You can take 30 minutes and do it right now. Here’s a (https://docs.google.com/document/d/1ThORHWmpbl0NDSg7vw32grdu4JAP7Zq7xziULxWFBoc/edit?usp=sharing) to get started.
+You can take 30 minutes and do it right now. Here’s a [template](https://docs.google.com/document/d/1ThORHWmpbl0NDSg7vw32grdu4JAP7Zq7xziULxWFBoc/edit?usp=sharing) to get started.
 
 > “Vision is the bottleneck of talent. Most talent is wasted because people do not clearly know what they
 > want. It’s not a lack of effort, but a lack of direction. There are many capable people in the world, but
@@ -114,9 +109,9 @@ my job.
 
 Week after week, I kept facing the fact that my job was making me miserable and not bringing me any closer
 to my long-term vision. After a while, it was natural to opt for a change of direction (I go more into the
-reasons for quitting (https://giorgiop.com/job/)).
+reasons for quitting [in this article](https://giorgiop.com/job/)).
 
-If you want to start the habit of a weekly or monthly review, (https://giorgiop.com/fail/). Your habit
+If you want to start the habit of a weekly or monthly review, [it is best to start with something simple](https://notes.giorgiop.com/book-how-to-fail-at-almost-everything-and-still-win-big-scott-adams). Your habit
 will feel less overwhelming and easier to complete.
 
 > “The good program you follow is better than the perfect program you quit” \
@@ -130,12 +125,12 @@ will feel less overwhelming and easier to complete.
 * What went well last week?
 * What didn’t go well last week, and how can I learn/improve from it?
 
-I made (https://docs.google.com/document/d/1G41EEpTEyxE-wLA3C3pD7uUPAcZ-VX7_WW9UHLlrru4/edit?usp=sharing).
+I made [a simple template you can copy here.](https://docs.google.com/document/d/1G41EEpTEyxE-wLA3C3pD7uUPAcZ-VX7_WW9UHLlrru4/edit?usp=sharing).
 
 To make the habit stick, it’s useful to set up a recurring reminder on your calendar or task on your to-do
 list. I do it every Sunday.
 
-You can set one up now → (https://calendar.google.com/)
+You can set one up now → [https://calendar.google.com/](https://calendar.google.com/)
 
 As you make your weekly review a habit and become familiar with it, you can customize it according to your
 needs and preferences.

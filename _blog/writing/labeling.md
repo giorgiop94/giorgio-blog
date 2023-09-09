@@ -1,5 +1,6 @@
 ---
 title: Learning to Watch the Mind
+date: 2020-12-19
 description: >
   Observe Your Thoughts and Free Yourself from Their Control |
   Estimated Reading Time: 6 minutes
@@ -60,7 +61,7 @@ The sun shines, the dog barks and the monkey-mind thinks.
 
 It’s as if we assume the mind to be an all-knowing entity. In reality, it’s just a monkey making stuff up.
 
- (https://giphy.com/gifs/talk-warming-rpt-Q1aRmd8e90WIw)
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/Q1aRmd8e90WIw" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/talk-warming-rpt-Q1aRmd8e90WIw">via GIPHY</a></p>
 
 Don’t get me wrong, thinking can be really valuable if done consciously, especially for problem solving.
 
@@ -95,7 +96,7 @@ As you witness your thoughts from this new perspective, you’ll stop identifyin
 Then you’ll see your mind for what it really is, a deranged, irrational monkey. Quickly taken over by
 emotions, continuously jumping from one thought to another etc…
 
- (https://giphy.com/gifs/thesimpsons-3orieRv2AEvWsxvPzy)
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/3orieRv2AEvWsxvPzy" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/thesimpsons-3orieRv2AEvWsxvPzy">via GIPHY</a></p>
 
 With time, it will be clear that identifying with all its thoughts is making you suffer, so you’ll
 naturally stop believing them. As you do that, you’ll be free from their tyranny.
@@ -172,7 +173,7 @@ But this doesn’t mean that labeling can’t be useful for some people at certa
 
 I see the labeling technique as a bike’s training wheels.
 
-(https://giphy.com/gifs/season-11-the-simpsons-11x8-xT5LMC50nEiNfaM2Lm)
+<div style="width:100%;height:0;padding-bottom:76%;position:relative;"><iframe src="https://giphy.com/embed/xT5LMC50nEiNfaM2Lm" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/season-11-the-simpsons-11x8-xT5LMC50nEiNfaM2Lm">via GIPHY</a></p>
 
 If you’ve never observed your mind (or rode a bike), it might be difficult to suddenly do it, so you might
 be tempted to quit.
