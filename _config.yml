@@ -69,7 +69,7 @@ defaults:
 pagination:
   enabled: true
   collection: 'blog'
-  permalink: '/:title/:num/'
+  permalink: '/page/:num/'
   # title: ':title - page :num'
   sort_reverse: true
   per_page: 20
