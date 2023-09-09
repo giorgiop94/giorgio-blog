@@ -1,6 +1,6 @@
 ---
 title: Giorgio
-permalink: /:title/
+permalink: pretty
 
 author:
   name: Giorgio
@@ -44,6 +44,7 @@ minima:
 collections:
   blog:
     output: true
+    permalink: /:title/
 
 defaults:
   - scope:
@@ -51,6 +52,7 @@ defaults:
     values:
       layout: post
       toc: true
+      permalink: /:title/
 
   - scope:
       path: "_blog/letters/*.*"
