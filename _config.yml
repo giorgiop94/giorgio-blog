@@ -68,7 +68,7 @@ defaults:
 # The values here represent the defaults if nothing is set
 pagination:
   enabled: true
-  collection: 'blog'
+  #collection: 'blog'
   permalink: '/:title/:num/'
   # title: ':title - page :num'
   sort_reverse: true
