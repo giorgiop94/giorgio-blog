@@ -1,5 +1,6 @@
 ---
 title: Gift Yourself Some Silence
+date: 2020-09-21
 description: >
   Why reducing podcast consumption may be a good thing | Estimated Reading time: 5 minutes
 ---
@@ -10,8 +11,7 @@ As new technologies continue to rush into our lives, it is critical that we ask 
 
 For the past few years, we’ve been doing that somewhat successfully with smartphones and social media.
 
-Today many people know that, if used excessively, those technologies can have a negative impact on our mood, productivity, and life satisfaction. As we became aware of their harm, we started
-(https://giorgiop.com/phone-mastery/).
+Today many people know that, if used excessively, those technologies can have a negative impact on our mood, productivity, and life satisfaction. As we became aware of their harm, we started [devising systems and tactics to avoid abusing them.](https://giorgiop.com/phone-mastery/).
 
 But what about podcasts?
 
@@ -74,7 +74,7 @@ Distractions are the painkillers of emotional pain. 
 
 In the short term, it feels better to get distracted. You treat the symptom, numb the pain. 
 
-Yet, if you never treat the root cause, the problem will get worse. In the long term, suppressing emotions can have (https://openaccesspub.org/ijpr/article/999).
+Yet, if you never treat the root cause, the problem will get worse. In the long term, suppressing emotions can have [drastic repercussions on mental and physical well-being.](https://openaccesspub.org/ijpr/article/999).
 
 On the other hand, **in silence, as thoughts and emotions bubble up from your unconscious, you are forced to become aware of them. In doing so, you can process them in a healthy way.**
 
@@ -97,7 +97,7 @@ fects.),[3](https://ehp.niehs.nih.gov/doi/10.1289/ehp.1409400), [4](https://www.
 
 While most of these studies focus on noise from traffic or construction, some research also points to negative effects induced by in-home sounds such as TV, loud music, and appliances. 
 
-These effects seem to be explained by the fact that (https://www.brainfacts.org/thinking-sensing-and-behaving/diet-and-lifestyle/2018/noise-pollution-isnt-just-annoying-its-bad-for-your-health-062718), causing a
+These effects seem to be explained by the fact that [noise triggers the brain's fight or flight response](https://www.brainfacts.org/thinking-sensing-and-behaving/diet-and-lifestyle/2018/noise-pollution-isnt-just-annoying-its-bad-for-your-health-062718), causing a
 release of cortisol and adrenaline, two main stress hormones.
 
 ## **Silence and Creativity**
@@ -108,7 +108,7 @@ If you are a creative person, you might think:
 
 That might seem true at first, but don’t forget that **most people get their most brilliant ideas when they let their minds wander, free from distractions**.
 
-Derek Sivers, one of the most creative people out there (https://sive.rs/dc):
+Derek Sivers, one of the most creative people out there [wrote](https://sive.rs/dc):
 
 *“Silence is a great canvas for your thoughts. That vacuum helps turn all of your inputs into output.”*
 
@@ -116,12 +116,9 @@ It’s no coincidence that nowadays most people report having their best ideas i
 
 **Your creative genius resides in the unconscious mind. To harness it, you must create quiet space to listen to it.**
 
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="pt" dir="ltr">To produce signal, mute noise. <a href="https://t.co/y3aUyTRXPb">pic.twitter.com/y3aUyTRXPb</a></p>&mdash; VV (@visualizevalue) <a href="https://twitter.com/visualizevalue/status/1290662571528388609?ref_src=twsrc%5Etfw">August 4, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-> To produce signal, mute noise. (https://t.co/y3aUyTRXPb)
->
-> — Visualize Value (@visualizevalue) [August 4, 2020](https://twitter.com/visualizevalue/status/1290662571528388609?ref_src=twsrc%5Etfw)
-
-  ## **How to Allow More Silence**
+## **How to Allow More Silence**
 
 I still struggle with this.
 

@@ -1,5 +1,6 @@
 ---
 title: Turning the phone master into a beautiful servant
+date: 2020-07-31
 description: >
   How to set one-time systems to break distractions, reduce time waste and use your phone to move toward your goals
 ---
@@ -18,7 +19,7 @@ Anxiety, worries, and regrets are all ills caused by the mind.
 An overactive mind:
 
 * brings you away from the present.
-* makes up unlikely and (https://en.wikipedia.org/wiki/Negativity_bias) scenarios and assumptions.
+* makes up unlikely and [pessimistic](https://en.wikipedia.org/wiki/Negativity_bias) scenarios and assumptions.
 * gets you caught in endless desires, making you dissatisfied and always seek more.
 
 In these cases, the mind becomes a *“dangerous master”*. It takes control of you, making your life worse.
@@ -121,8 +122,7 @@ On both Android and iPhone this is now very easy. Both systems have native apps 
 ![Comparing Android and iPhone apps to track time spent on phone](/assets/blog/TIme-tracking.png)Seeing the raw numbers once in
 a while though, may not be very meaningful. You may easily forget them and stop paying attention after a while.
 
-For this reason, I recently started logging my main stats in a spreadsheet as part of my weekly review. If you want to try you can create a copy of the spreadsheet I created
-(https://docs.google.com/spreadsheets/d/1dhxerL0ogCmozGSTY9CZHhO4R6n6kSGrOYRyNu4ME3k/edit?usp=sharing).
+For this reason, I recently started logging my main stats in a spreadsheet as part of my weekly review. If you want to try you can create a copy of the spreadsheet I created [here](https://docs.google.com/spreadsheets/d/1dhxerL0ogCmozGSTY9CZHhO4R6n6kSGrOYRyNu4ME3k/edit?usp=sharing).
 
 This way I’m sure to consistently check how I’m doing. This also helps me assess if anything I implemented has made things better or worse.
 
@@ -136,7 +136,7 @@ To add Screen Time as a Widget to your Day View: swipe right to get to the Today
 
 Your phone is designed to be an attractive and addictive toy.
 
-![Photo showing how addictive the phone can be](/assets/blog/youssef-sarhan-tze1kKj7Lgg-unsplash-1024x769.jpg)
+![Photo showing how addictive the phone can be](/assets/blog/color_phone.jpg)
 
 Did you ever catch yourself unlocking your phone, swiping through the pages, and putting it
 back in your pocket?
@@ -158,19 +158,17 @@ You can start using a plain background for your home and lockscreen, ideally bla
 
 **Using black automatically destroys the idea that your phone is a shiny toy to look at all the time.**
 
-![Image showing a simple black background, uncluttered by notifications](/sassets/blog/Lockscreen.png)
+![Image showing a simple black background uncluttered by notifications](/assets/blog/Lockscreen.png)
 
 The first few days it will seem awfully boring. That’s good! Over time, you may even grow to like the minimalist, zen background.
 
-What’s most important is that unconsciously, your phone will be less attractive. As a plus, your phone’s battery will also [last longer]
-(https://sea.mashable.com/tech/7010/dark-mode-on-the-iphone-can-save-massive-amounts-of-battery-life-test-shows).
+What’s most important is that unconsciously, your phone will be less attractive. As a plus, your phone’s battery will also [last longer](https://sea.mashable.com/tech/7010/dark-mode-on-the-iphone-can-save-massive-amounts-of-battery-life-test-shows).
 
 If instead, you want to go a step further, you can set-up your phone to grayscale, which has been [shown](https://www.nytimes.com/2018/01/12/technology/grayscale-phone.html) to decrease smartphone use.
 
 **With gray scale, you strip away all the neuron-stimulating colors on your phone that contribute to making our phones addictive.**
 
-![Image comparing Grayscale and full
-colors](assets/blog/grayscale_phone.png)
+![Image comparing Grayscale and full colors](assets/blog/grayscale_phone.png)
 
 Instead of going full-on grayscale, I set up my phone to automatically go on grayscale at night, to limit my phone usage before bed and ensuring a good night’s sleep.
 
@@ -244,7 +242,7 @@ Once you try it, even for a few days, whenever you fall back and use your phone 
 
 This will create a positive feedback loop. You only need to set it in motion and watch it do the work.
 
-!(assets/blog/phone-on-bed-loop-black.png)
+![phone loop](assets/blog/phone-on-bed-loop-black.png)
 
 ### 4. Nurture your focus and attention
 
@@ -292,14 +290,7 @@ disappears).
 
 Closely related is the concept of scheduling distractions.
 
-
-> Schedule your Distractions:\
-> \
-> If you think you are learning from some distractions (like Twitter or YouTube), then assign specific time slots to indulge in these activities.\
-> \
-> Outside these time slots, keep in mind how dangerous distraction is, and avoid it.
->
-> — Kunal (@CrazyPolymath) [April 7, 2019](https://twitter.com/CrazyPolymath/status/1114710774503497730?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet" data-conversation="none" data-theme="dark"><p lang="en" dir="ltr">Schedule your Distractions:<br><br>If you think you are learning from some distractions (like Twitter or YouTube), then assign specific time slots to indulge in these activities.<br><br>Outside these time slots, keep in mind how dangerous distraction is, and avoid it.</p>&mdash; Kunal (@KunalBSarkar) <a href="https://twitter.com/KunalBSarkar/status/1114710774503497730?ref_src=twsrc%5Etfw">April 7, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
   Some slot-machine apps undoubtedly can provide value, if we use them intentionally.
 

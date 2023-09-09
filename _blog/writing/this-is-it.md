@@ -1,5 +1,6 @@
 ---
 title: This is it
+date: 2020-07-06
 description: >
   a simple reminder to enjoy the present moment
 ---
@@ -86,5 +87,5 @@ A simple sentence that, helps me to get back to the present moment and enjoy it 
 
 If you’d like to give it a try and download the wallpapers, you can find them here:
 
-- [[Desktop](assets/blog/thisisit_desktop-1.png)]
-- [[Mobile](assets/blog/thisisit_mobile-1.png)]
+- [Desktop](assets/blog/thisisit_desktop-1.png)
+- [Mobile](assets/blog/thisisit_mobile-1.png)
