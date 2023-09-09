@@ -168,7 +168,7 @@ If instead, you want to go a step further, you can set-up your phone to grayscal
 
 **With gray scale, you strip away all the neuron-stimulating colors on your phone that contribute to making our phones addictive.**
 
-![Image comparing Grayscale and full colors](assets/blog/grayscale_phone.png)
+![Image comparing Grayscale and full colors](/assets/blog/grayscale_phone.png)
 
 Instead of going full-on grayscale, I set up my phone to automatically go on grayscale at night, to limit my phone usage before bed and ensuring a good night’s sleep.
 
@@ -198,8 +198,7 @@ This process naturally links to Principle #3.
 If you have everything on one page, it’s easier to be intentional with the apps you want to make easier to access. Even if you didn’t put everything on one page, you can take 10 minutes to re-arrange your home
 screen(s) to encourage positive behaviors and discourage negative ones (inspired by [Jordan Lejuwaann](https://medium.com/@jlejuwaan/9-micro-hacks-that-made-me-faster-happier-and-more-sane-350f09116111)).
 
-![Image showing how a one page background can easily be arranged to increase
-productivity](assets/blog/Home-screen-arrangetrading-money-for-happiness.png)
+![Image showing how a one page background can easily be arranged to increase productivity](/assets/blog/Home-screen-arrangetrading-money-for-happiness.png)
 
 You can do so by following these steps:
 
@@ -242,7 +241,7 @@ Once you try it, even for a few days, whenever you fall back and use your phone 
 
 This will create a positive feedback loop. You only need to set it in motion and watch it do the work.
 
-![phone loop](assets/blog/phone-on-bed-loop-black.png)
+![phone loop](/assets/blog/phone-on-bed-loop-black.png)
 
 ### 4. Nurture your focus and attention
 
@@ -275,8 +274,7 @@ time.
 A way around this that worked well for me was to turn off the notifications on the lockscreen. That way, once I unlock my phone I will still be able to see all the notifications, but not when my phone is still
 locked. **The lock screen becomes a sort of zen, safe place, instead of an overwhelming, “urgent” list of things to address.**
 
-![Uncluttered vs cluttered lockscreen on
-Android](assets/blog/uncluttered_lock_screen.png)
+![Uncluttered vs cluttered lockscreen on Android](/assets/blog/uncluttered_lock_screen.png)
 
 ***On Android:*** to select which notifications you want to see on your
 lockscreen and which ones you don’t go to Settings → Apps and notifications → Select an app → Select a type of notification → Advanced → Lock Screen → Don’t show notifications at all
