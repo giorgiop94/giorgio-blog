@@ -45,7 +45,7 @@ play with different arrangements and strategies to find what works best for its 
 However, given the increasing possibility of environmental and societal collapse, it’s safe to expect that most collectives will have a tendency to care for the health of their local bio-region, think about food
 production, and co-create new cultures that better promote human flourishing (thus regenerating land and culture).
 
-Just like it happens for startups, certainly (https://aeon.co/essays/like-start-ups-most-intentional-communities-fail-why) (and with failure there are always lessons to learn), but some will also succeed,
+Just like it happens for startups, certainly [a lot of experiments will fail](https://aeon.co/essays/like-start-ups-most-intentional-communities-fail-why) (and with failure there are always lessons to learn), but some will also succeed,
 providing inspiration and guidance for further experiments.
 
 Clearly, the comparison with startups can only go so far.
@@ -62,10 +62,10 @@ There’s no way around it, continuing with “business as usual” is not a lon
 
 The Earth is a complex, adaptive, living system. For the past 10,000 years, this complex system has been in a stable state, ideal for human flourishing, also known as the Holocene.
 
-As we continue pushing the Earth outside of its boundaries, we risk pushing the system outside of its equilibrium, creating (https://notes.giorgiop.com/tipping-point-nonlinear-effects) that might be impossible to
+As we continue pushing the Earth outside of its boundaries, we risk pushing the system outside of its equilibrium, creating [tipping points](https://notes.giorgiop.com/tipping-point-nonlinear-effects) that might be impossible to
 reverse.
 
-![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)
+![trajectories in the anthropocene](/assets/blog/Stability-landscape-showing-the-pathway-of-the-Earth-System-out-of-the-Holocene-and-thus.png)
 
 Source: [Trajectories of the Earth System in the Anthropocene](https://www.researchgate.net/publication/326876618_Trajectories_of_the_Earth_System_in_the_Anthropocene), Will et al (2018)A few examples of how these tipping point effects might work:
 
@@ -75,10 +75,14 @@ Source: [Trajectories of the Earth System in the Anthropocene](https://www.resea
         + More ice caps melt
         + Temperatures rise more…
 
+<iframe width="500" height="440" frameborder="0" src="https://ncase.me/loopy/v1.1/?embed=1&amp;data=[[[1,576,279,0,%22Ice%2520Caps%2520Melt%22,4],[2,578,438,0,%22Warming%22,0],[3,753,360,1,%22Earth'%2520s%2520Reflectivity%2520%22,5]],[[2,1,104,1,0],[1,3,35,-1,0],[3,2,50,-1,0]],[],4%5D"></iframe>
+
  * Deforestation reduces the number of trees
         + Less trees will trap less heat and contribute to less rainfall
         + Less rainfall hampers the ability of vegetation to grow
         + Less plants cause rainfall to decrease even further
+
+<iframe width="500" height="440" frameborder="0" src="https://ncase.me/loopy/v1.1/?embed=1&amp;data=[[[1,813,217,1,%22Rainfall%22,4],[2,818,499,0,%22Deforestation%22,0],[5,468,352,1,%22Vegetation%22,3]],[[2,5,57,-1,0],[5,1,24,1,0],[1,5,40,1,0]],[],5%5D"></iframe>
 
  If we continue transgressing [Planetary Boundaries](https://notes.giorgiop.com/planetary-boundaries) and cause Global Tipping points, we can expect to experience increasingly disastrous effects.
 
@@ -87,12 +91,11 @@ and other environmental tragedies continue manifesting on ever-larger scales, it
 impossibility of sustaining fossil fuel use).
 
 At this stage, simply reducing deforestation or cutting emissions is not going to be enough. We need to actually regenerate the Earth, reduce our reliance on fossil fuels, while also increasing our individual and
-community (https://notes.giorgiop.com/resilience) to the environmental shocks that will inevitably become more frequent.
+community [resilience](https://notes.giorgiop.com/resilience) to the environmental shocks that will inevitably become more frequent.
 
 We have no other choice (unless you believe that moving our civilization to another planet is feasible or desirable).
 
-This means that investments in (https://notes.giorgiop.com/regenerative-agriculture) (permaculture, agroforestry) and decentralized green technology will inevitably have to rise as we come face-to-face with the
-consequences of ecological destruction. Further, it will be necessary to upgrade our collective sense-making and decision-making capacities.
+This means that investments in [regenerative agriculture](https://notes.giorgiop.com/regenerative-agriculture) (permaculture, agroforestry) and decentralized green technology will inevitably have to rise as we come face-to-face with the consequences of ecological destruction. Further, it will be necessary to upgrade our collective sense-making and decision-making capacities.
 
 In this context, regenerative collectives (especially rural ones) can be a particularly appealing investment (from a societal standpoint) as they create a number of positive externalities:
 
@@ -102,8 +105,7 @@ In this context, regenerative collectives (especially rural ones) can be a parti
 * Increase biodiversity
 * Encourage collaboration and collective well-being
 
-Even from a financial standpoint, today it makes much more sense to invest in regenerative Agriculture projects than in traditional food production systems (see SLM Partners’ “[The investment case for ecological
-farming](https://www.slmpartners.com/s/SLM-Partners-Investment-case-for-ecological-farming.pdf)“).
+Even from a financial standpoint, today it makes much more sense to invest in regenerative Agriculture projects than in traditional food production systems (see SLM Partners’ "[The investment case for ecological farming](https://www.slmpartners.com/s/SLM-Partners-Investment-case-for-ecological-farming.pdf)“).
 
 But the need to focus on regenerative agriculture doesn’t mean that everyone in rural collectives will have to do farm work, which brings us to the next point.
 
@@ -115,10 +117,9 @@ The outbreak of COVID in the past year and a half has made a few things apparent
 
 Companies are realizing the viability of remote work and that its adoption can significantly increase their hiring pool and employee satisfaction while bringing down costs.
 
-People are starting to move back to rural areas, where they can enjoy larger spaces, more time in nature, and engage more with the local community (interestingly, 
-(https://www.brookings.edu/research/even-before-coronavirus-census-shows-u-s-cities-growth-was-stagnating/), but the pandemic accelerated it)
+People are starting to move back to rural areas, where they can enjoy larger spaces, more time in nature, and engage more with the local community (interestingly, [this trend had already started before COVID](https://www.brookings.edu/research/even-before-coronavirus-census-shows-u-s-cities-growth-was-stagnating/), but the pandemic accelerated it)
 
-![](/assets/blog/kylie-lugo-t0BavJY0M-U-unsplash-1024x683.jpg)
+![photo of people together](/assets/blog/kylie-lugo-t0BavJY0M-U-unsplash-1024x683.jpg)
 
 2. We need community and a sense of belonging
 
@@ -126,17 +127,15 @@ For the majority of human history, we lived in relatively small groups of people
 behaviors towards each other (the cheaters would be easily identified and punished). As we started moving to large cities, we got used to living in isolation, treating most people around us as mere
 service-providers. But doing so has definitely taken a toll on our mental health (even before COVID there were talks of a “[Loneliness Epidemic](https://sitn.hms.harvard.edu/flash/2018/loneliness-an-epidemic/)“).
 
-The extreme isolation that COVID forced us into, helped us to open our eyes and realize the importance of community, sparking tremendous growth in online communities ([The Stoa](https://www.thestoa.ca/), [The
-Interintellect](https://interintellect.com/), [Ness Labs](https://nesslabs.com/), and many more), but also in the interest to start living in physical spaces with other like-minded people. The increased adoption
+The extreme isolation that COVID forced us into, helped us to open our eyes and realize the importance of community, sparking tremendous growth in online communities ([The Stoa](https://www.thestoa.ca/), [The Interintellect](https://interintellect.com/), [Ness Labs](https://nesslabs.com/), and many more), but also in the interest to start living in physical spaces with other like-minded people. The increased adoption
 of remote work is making the latter a lot easier.
 
 Indeed, even people not particularly invested in environmental regeneration have started to express this sentiment, an example is Nat Eliason’s movement of [Creator Towns](https://www.creatortowns.com/), which has
-been gaining traction among online content creators. Even [Balaji Srinivasan](https://twitter.com/balajis), a transhumanist, space-obsessed techno-utopian (https://tim.blog/2021/03/24/balaji-srinivasan/) the
-possibility of humans re-organizing in decentralized, self-organizing communities.
+been gaining traction among online content creators. Even [Balaji Srinivasan](https://twitter.com/balajis), a transhumanist, space-obsessed techno-utopian [recently discussed](https://tim.blog/2021/03/24/balaji-srinivasan/) the possibility of humans re-organizing in decentralized, self-organizing communities.
 
 ### Tech and Decentralization
 
-When hearing the term “sustainable communities”, some people may think that I’m referring to isolated groups of (https://en.wikipedia.org/wiki/Luddite) who reject technology and want to go “back to the good ol’ days”.
+When hearing the term “sustainable communities”, some people may think that I’m referring to isolated groups of [luddites](https://en.wikipedia.org/wiki/Luddite) who reject technology and want to go “back to the good ol’ days”.
 
 But that’s not at all what I’m talking about. Technology can actually be a huge catalyst to help these kinds of communities thrive. Indeed, there are a few well-established examples of successful ecovillages that embraced technology to favor sustainable living like [Damanhur](http://www.damanhur.org/) in Italy, and [Findhorn](https://www.ecovillagefindhorn.com/) in the UK. Another exciting example (although at an early stage) is the [Future Thinker’s Smart Village](https://futurethinkers.org/village/), which, among other things, is planning to incorporate an electric car-sharing program, and decentralized, renewable microgrids.
 
@@ -151,7 +150,7 @@ to other community members.
 accessible to all
 * [Hylo](https://www.hylo.com/) is a free, open-source platform developed specifically to help groups organize more effectively around a shared purpose, and to facilitate connection with other groups
 * For some years now, [Open Source Ecology](https://www.opensourceecology.org/) has been creating open source blueprints for people to cheaply create all the necessary machinery, tools and buildings to start
-farming sustainably while leveraging 3-D printing technology (they even teach you (https://vimeo.com/211160414))
+farming sustainably while leveraging 3-D printing technology (they even teach you [how to build your own 3-D Printer](https://vimeo.com/211160414))
 * [Regen Network](https://www.regen.network/) developed a blockchain-based platform that aligns economic incentives with Earth regeneration. Companies can buy carbon credits by paying farmers and communities for
 their regenerative efforts. This is an incredible and much needed technology as one of the biggest failures of our market system is not accounting for externalities (either positive or negative).
 * [Holochain](https://holochain.org/) is an alternative to blockchain with a much lower energy requirement to run and thus, a massively higher potential for scalability. One of the exciting use cases of Holochain
@@ -171,18 +170,15 @@ Historically, many of the communities born in the 60s and 70s failed due to inte
 
 This is why it is really important that the emerging **regenerative collectives of tomorrow focus as much on the Earth as they do on their people, culture and relationships**. Today, we’re witnessing the spread of a number of innovative practices/frameworks that can improve the way we relate to each other in a group, the way we make decisions, communicate, support each other, and more.
 
-A really interesting development in this area is the emergence of **social contemplative practices** such as Circling, [Social Metta](https://www.socialmeditation.guide/) and [Collective
-Presencing](https://www.collectivepresencing.org/), which expand the concept of meditation from a single-player endeavor to a group one, and teach us new ways of relating to each other. I see [The Monastic
-Academy](http://monasticacademy.com/) and [Buddhist Geeks](https://www.buddhistgeeks.org/) as pioneers in this area.
+A really interesting development in this area is the emergence of **social contemplative practices** such as Circling, [Social Metta](https://www.socialmeditation.guide/) and [Collective Presencing](https://www.collectivepresencing.org/), which expand the concept of meditation from a single-player endeavor to a group one, and teach us new ways of relating to each other. I see [The Monastic Academy](http://monasticacademy.com/) and [Buddhist Geeks](https://www.buddhistgeeks.org/) as pioneers in this area.
 
 There were also important developments in the psychology regarding the way we interact with each other, a clear example is [Non-Violent Communication](https://www.nonviolentcommunication.com/), but there is also the [Prosocial ARC Process](https://www.prosocial.world/).
 
-In addition, there were major innovations in the field of Organization Design, placing a strong emphasis on decentralized organizations and ways of operating. Frederic Laloux’s [Reinventing
-Organizations](https://www.reinventingorganizations.com/) and Samantha Slade’s [Going Horizontal](https://goinghorizontal.co/) are two important frameworks to help decentralized organizations (and communities)
+In addition, there were major innovations in the field of Organization Design, placing a strong emphasis on decentralized organizations and ways of operating. Frederic Laloux’s [Reinventing Organizations](https://www.reinventingorganizations.com/) and Samantha Slade’s [Going Horizontal](https://goinghorizontal.co/) are two important frameworks to help decentralized organizations (and communities)
 organize themselves in more flexible ways.
 
 The exciting thing is that different groups can experiment using a diverse range of practices and share their learnings with the network of other emerging communities. [Enspiral](https://www.enspiral.com/), a
-member-owned congregation of decentralized companies and social entrepreneurs, is already doing this as the organizational level (they even open-sourced their **AMAZING (https://handbook.enspiral.com/)** for
+member-owned congregation of decentralized companies and social entrepreneurs, is already doing this as the organizational level (they even open-sourced their **AMAZING [HANDBOOK](https://handbook.enspiral.com/)** for
 others to learn from), but it is not far-fetched to imagine a developing network of regenerative communities engaged in a similar kind of sharing. Actually, the [Global Ecovillage Network](https://ecovillage.org/) is an already established network of ecovillages that is in some ways doing so. There is also the [Game B movement](https://www.gameb.wiki/index.php?title=Get_Started), trying to do a similar thing, encouraging the emergence of so-called Proto-B communities, but it is still at an early stage.
 
 ## Beyond Community: Adopting a Bioregional Focus
@@ -192,7 +188,7 @@ In the past sections, I outlined some of the major trends that I see as being co
 However, I find it important to stress that to be truly transformative, these collectives can’t just isolate themselves from the world and simply connect with other regenerative groups. Earth regeneration happens
 at the bioregional scale, and for this reason, it is fundamental that **regenerative communities get involved and form key partnerships with other local actors in their bioregions**.
 
-![](/assets/blog/jumpstory-download20210723-195926-1024x681.jpg)
+![happy people](/assets/blog/jumpstory-download20210723-190221-scaled.jpg)
 Failing to do so at an early stage can lead to incomprehension and tensions between a community and the wider population around it, leading to lose-lose situations.
 
 Instead, fostering collaboration and understanding within the bioregion from the early days can be a critical component of success, both from a community and environmental perspective.
@@ -209,8 +205,8 @@ But if you’re as excited as I am by this possibility and you’re wondering ab
 
 This kind of civilization-wide change certainly would take a long time, generations, to arise and fully develop, but it has to start somewhere.
 
-As Jordan Hall explains in detail in (https://www.gameb.wiki/index.php?title=Personal_progress_toward_Game_B) of the Game B Wiki, the best place to start for each of us is within ourselves. Developing one’s own
-sense-making capability, and (https://medium.com/@danielschmachtenberger/advancing-human-sovereignty-ef3c95860fff), and cultivating healthy relationships with those around you, are all critical components of our
+As Jordan Hall explains in detail in [this page](https://www.gameb.wiki/index.php?title=Personal_progress_toward_Game_B) of the Game B Wiki, the best place to start for each of us is within ourselves. Developing one’s own
+sense-making capability, and [sovereignty](https://medium.com/@danielschmachtenberger/advancing-human-sovereignty-ef3c95860fff), and cultivating healthy relationships with those around you, are all critical components of our
 journeys.
 
 Ironically, one of the best ways to boost one’s personal development is through community. **By definition, you can’t see your blindspots. So having an honest, loving community to support you can be tremendously

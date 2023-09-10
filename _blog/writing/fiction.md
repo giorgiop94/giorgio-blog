@@ -1,11 +1,12 @@
 ---
 title: To Reading Fiction!
+date: 2021-05-21
 description: >
   An ode to great fiction; pathos, beauty, presence, imagination and much more
 ---
 
-![Great Gatsby Toast](../Great-Gatsby-making-a-toast-1-1024x576.jpg)![Great Gatsby
-Toast](../Great-Gatsby-making-a-toast-1-1024x576.jpg)*Estimated reading time: 4-5 mins*
+![Great Gatsby Toast](/assets/blog/Great-Gatsby-making-a-toast.jpg)
+*Estimated reading time: 4-5 mins*
 
 This essay was originally sent through my newsletter – [INTERMITTENT
 INSIGHTS](https://giorgiop.com/letters/)
@@ -51,7 +52,7 @@ My initial reaction:
 
 *“OMG, I can’t read any of my books for god-knows how long, I better get a new Kindle asap”*
 
-!(https://giphy.com/gifs/the-simpsons-ZOMQ931Z8oKCQ)
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/l2Je1lBJ0sdw26Y7K" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/season-15-the-simpsons-15x5-l2Je1lBJ0sdw26Y7K">via GIPHY</a></p>
 
 But actually, rather than rushing to buy a new e-reader and going back to my reading habits, I embraced the situation as an opportunity to read new things. Fortunately, the house I was staying at had quite a few books in English, most of which I would have never read normally.
 
@@ -97,7 +98,7 @@ blooming, the new students (you could tell at a glance) carrying armloads of new
 Reading those (and many other) passages, portrayed so beautifully, inspired me to look for and
 **appreciate more the beauty in my own daily life**. 
 
-So many moments that could usually be ignored for being so common, can actually become a small source of pleasure, and a reminder of how (https://giorgiop.com/this-is-it/), if we just pay attention.
+So many moments that could usually be ignored for being so common, can actually become a small source of pleasure, and a reminder of how [beautiful the moment is](https://giorgiop.com/this-is-it/), if we just pay attention.
 
 And then, of course, many novels also sprinkle gems of wisdom here and there.
 
@@ -108,10 +109,7 @@ adding some novels to my reading list. But eventually, I found myself continuous
 that non-fiction book.
 
 Recently though, inspired by [Rob Burbea](https://notes.giorgiop.com/rob-burbea)’s Dharma, where things
-like wonder, imagination, and beauty play an important role, I picked up [*Kafka on the Shore*](https://ww
-w.amazon.com/Kafka-Shore-Haruki-Murakami/dp/1400079276?crid=3IOKAYG2HCFW7&keywords=kafka+on+the+shore&qid=
-1621421816&sprefix=kafka+on+%2Caps%2C288&sr=8-1&linkCode=ll1&tag=giorgiopa-20&linkId=aefaf0547b59bff5c1b0f
-2b6a280a333&language=en_US&ref_=as_li_ss_tl) (again by Murakami), and once more, I got a rush of
+like wonder, imagination, and beauty play an important role, I picked up [*Kafka on the Shore*](https://www.amazon.com/Kafka-Shore-Haruki-Murakami/dp/1400079276?crid=3IOKAYG2HCFW7&keywords=kafka+on+the+shore&qid=1621421816&sprefix=kafka+on+%2Caps%2C288&sr=8-1&linkCode=ll1&tag=giorgiopa-20&linkId=aefaf0547b59bff5c1b0f2b6a280a333&language=en_US&ref_=as_li_ss_tl) (again by Murakami), and once more, I got a rush of
 excitement about reading that I hadn’t felt in a while. 
 
 Usually, when reading non-fiction, I read a few books at a time, alternating depending on my mood or
@@ -139,4 +137,4 @@ nkCode=ll1&tag=giorgiopa-20&linkId=8f46304b96939b14afc4462cf6d6bc61&language=en_
 Luigi Pirandello
 
 I’d love to hear from anyone who’s got recommendations, or whom like me decides to give novels a try after
-years of non-fiction 🙂 Feel free to (https://twitter.com/giorgiop_)
+years of non-fiction 🙂 Feel free to [reah out on twitter](https://twitter.com/giorgiop_)
