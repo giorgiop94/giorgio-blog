@@ -119,7 +119,7 @@ Companies are realizing the viability of remote work and that its adoption can s
 
 People are starting to move back to rural areas, where they can enjoy larger spaces, more time in nature, and engage more with the local community (interestingly, [this trend had already started before COVID](https://www.brookings.edu/research/even-before-coronavirus-census-shows-u-s-cities-growth-was-stagnating/), but the pandemic accelerated it)
 
-![photo of people together](/assets/blog/kylie-lugo-t0BavJY0M-U-unsplash-1024x683.jpg)
+![photo of people together](/assets/blog/kylie-lugo-t0BavJY0M-U-unsplash-scaled.jpg)
 
 2. We need community and a sense of belonging
 
