@@ -1,5 +1,6 @@
 ---
 title: Trading Money For Happiness
+date: 2020-06-25
 description: >
   Why I quit my job in the middle of COVID-19 | Estimated reading time: 7 mins
 ---
@@ -58,17 +59,17 @@ be able to support myself financially.
 
 Ideally, by doing something I enjoy.
 
-
-> The Internet has massively broadened the possible space of careers. Most people haven’t figured this out yet.
->
->  — Naval (@naval) [May 31, 2018](https://twitter.com/naval/status/1002103832879419392?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet  tw-align-center" data-conversation="none" data-theme="dark">
+<p dir="ltr" lang="en">The Internet has massively broadened the possible space of careers. Most people haven't figured this out yet.</p>
+— Naval (@naval) <a href="https://twitter.com/naval/status/1002103832879419392?ref_src=twsrc%5Etfw">May 31, 2018</a></blockquote>
+<p><script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 
 ## **Forces pulling me back**
 
 It was clear to me that I should leave. At the same time, I found myself *unable to “pull the trigger”.*
 
 It’s funny. I had heard of people stuck in similar situations and **I was always surprised to hear that they stayed in jobs they hated, even when they didn’t “really need” the money.** When talking to them (from
-an outside, uninvolved perspective), it seemed so obvious that it doesn’t make sense to do something you hate just for the money([Gary Vee puts it well](https://www.youtube.com/watch?v=uDJUB2ZnBGA)).
+an outside, uninvolved perspective), it seemed so obvious that it doesn’t make sense to do something you hate just for the money ([Gary Vee puts it well](https://www.youtube.com/watch?v=uDJUB2ZnBGA)).
 
 Yet, here I was, doing the exact same thing. Going against what I believed in.
 
