@@ -37,62 +37,52 @@ $table-border-color:    $border-color-01 !default;
   --light: #fff; /* Adjust with your preferred light color */
 }
 
-* {
-  padding: 0;
-  margin: 0;
-  box-sizing: border-box;
-}
-
-.toggle-switch {
+.theme-toggle {
+  --toggle-size: 16px;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  width: 6.25em;
+  height: 3.125em;
+  background: -webkit-gradient(linear, left top, right top, color-stop(50%, #efefef), color-stop(50%, #2a2a2a)) no-repeat;
+  background: -o-linear-gradient(left, #efefef 50%, #2a2a2a 50%) no-repeat;
+  background: linear-gradient(to right, #efefef 50%, #2a2a2a 50%) no-repeat;
+  background-size: 205%;
+  background-position: 0;
+  -webkit-transition: 0.4s;
+  -o-transition: 0.4s;
+  transition: 0.4s;
+  border-radius: 99em;
   position: relative;
-  width: 200px;
-  transform: scale(0.125); /* Scale down to 1/8 */
-  transform-origin: top left;
-}
-
-label {
-  position: absolute;
-  width: 100%;
-  height: 100px;
-  background-color: var(--dark);
-  border-radius: 50px;
   cursor: pointer;
+  font-size: var(--toggle-size);
 }
 
-input {
-  position: absolute;
-  display: none;
-}
-
-.slider {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  border-radius: 50px;
-  transition: 0.3s;
-}
-
-input:checked ~ .slider {
-  background-color: var(--light);
-}
-
-.slider::before {
+.theme-toggle::before {
   content: "";
+  width: 2.25em;
+  height: 2.25em;
   position: absolute;
-  top: 13px;
-  left: 16px;
-  width: 75px;
-  height: 75px;
+  top: 0.438em;
+  left: 0.438em;
+  background: -webkit-gradient(linear, left top, right top, color-stop(50%, #efefef), color-stop(50%, #2a2a2a)) no-repeat;
+  background: -o-linear-gradient(left, #efefef 50%, #2a2a2a 50%) no-repeat;
+  background: linear-gradient(to right, #efefef 50%, #2a2a2a 50%) no-repeat;
+  background-size: 205%;
+  background-position: 100%;
   border-radius: 50%;
-  box-shadow: inset 28px -4px 0px 0px var(--light);
-  background-color: #1C1D21;
-  transition: 0.3s;
+  -webkit-transition: 0.4s;
+  -o-transition: 0.4s;
+  transition: 0.4s;
 }
 
-input:checked ~ .slider::before {
-  transform: translateX(95px);
-  background-color: #1C1D21;
-  box-shadow: none;
+.theme-toggle:checked::before {
+  left: calc(100% - 2.25em - 0.438em);
+  background-position: 0;
+}
+
+.theme-toggle:checked {
+  background-position: 100%;
 }
 //END OF DARK SLIDER INFO
 
