@@ -33,65 +33,62 @@ $table-border-color:    $border-color-01 !default;
 
 //BEGINNING OF DARK SLIDER INFO
 :root {
-    --light: #d8dbe0;
-    --dark: #28292c;
+  --dark: #463F35; /* Adjust with your preferred dark color */
+  --light: #fff; /* Adjust with your preferred light color */
 }
 
 
 .toggle-switch {
   position: relative;
-  width: 25px; /* 1/8 of 200px */
+  width: 200px;
+  transform: scale(0.125); /* Scale down to 1/8 */
+  transform-origin: top left;
 }
 
-/* Reduced label dimensions and border-radius to 1/8 */
 label {
   position: absolute;
   width: 100%;
-  height: 12.5px; /* 1/8 of 100px */
+  height: 100px;
   background-color: var(--dark);
-  border-radius: 6.25px; /* 1/8 of 50px */
+  border-radius: 50px;
   cursor: pointer;
 }
 
-/* The input remains invisible */
 input {
   position: absolute;
   display: none;
 }
 
-/* Reduced slider dimensions and border-radius to 1/8 */
 .slider {
   position: absolute;
   width: 100%;
   height: 100%;
-  border-radius: 6.25px; /* 1/8 of 50px */
+  border-radius: 50px;
   transition: 0.3s;
 }
 
-/* Adjusting the slider when checked (no size change needed) */
 input:checked ~ .slider {
   background-color: var(--light);
 }
 
-/* Reduced dimensions of the slider's pseudo-element to 1/8 */
 .slider::before {
   content: "";
   position: absolute;
-  top: 1.625px; /* 1/8 of 13px */
-  left: 2px; /* 1/8 of 16px */
-  width: 9.375px; /* 1/8 of 75px */
-  height: 9.375px; /* 1/8 of 75px */
+  top: 13px;
+  left: 16px;
+  width: 75px;
+  height: 75px;
   border-radius: 50%;
-  background-color: var(--dark);
+  box-shadow: inset 28px -4px 0px 0px var(--light);
+  background-color: #1C1D21;
   transition: 0.3s;
 }
 
-/* Adjusted the transform translate value to 1/8 */
 input:checked ~ .slider::before {
-  transform: translateX(11.875px); /* 1/8 of 95px */
-  background-color: var(--dark);
+  transform: translateX(95px);
+  background-color: #1C1D21;
+  box-shadow: none;
 }
-
 //END OF DARK SLIDER INFO
 
 // Syntax highlighting styles should be adjusted appropriately for every "skin"
