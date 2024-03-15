@@ -37,6 +37,11 @@ $table-border-color:    $border-color-01 !default;
   --light: #fff; /* Adjust with your preferred light color */
 }
 
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
 
 .toggle-switch {
   position: relative;
