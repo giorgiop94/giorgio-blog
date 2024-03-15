@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', (event) => {
-  const themeToggle = document.getElementById('theme-toggle');
+  const themeToggle = document.getElementById('toggle-switch');
   themeToggle.addEventListener('click', () => {
     // Toggle the 'dark-theme' class on the body
     document.body.classList.toggle('dark-theme');
