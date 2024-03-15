@@ -1,2 +1,13 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+
+/* Dark theme styles */
+body.dark-theme {
+  background-color: black;
+  color: white;
+}
+
+/* Other elements you wish to style for the dark theme */
+.dark-theme a, .dark-theme p, .dark-theme li {
+  /* Your dark theme styles for links, paragraphs, list items, etc. */
+}

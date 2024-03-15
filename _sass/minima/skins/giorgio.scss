@@ -31,6 +31,15 @@ $table-header-bg-color: lighten($brand-color, 43%) !default;
 $table-header-border:   lighten($brand-color, 37%) !default;
 $table-border-color:    $border-color-01 !default;
 
+theme-toggle {
+  position: fixed;
+  top: 1em; /* Adjust as needed */
+  right: 1em; /* Adjust as needed */
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 1.5em; /* Adjust as needed */
+}
 
 // Syntax highlighting styles should be adjusted appropriately for every "skin"
 // ----------------------------------------------------------------------------
