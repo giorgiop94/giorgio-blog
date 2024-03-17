@@ -55,8 +55,6 @@ $table-border-color:    $border-color-01 !default;
   -o-transition: 0.4s;
   transition: 0.4s;
   border-radius: 99em;
-  position: relative;
-  top: 50%;
   cursor: pointer;
   font-size: var(--toggle-size);
 }
