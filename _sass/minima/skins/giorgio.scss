@@ -57,7 +57,6 @@ $table-border-color:    $border-color-01 !default;
   border-radius: 99em;
   position: relative;
   top: 50%;
-  transform: translateY(-50%);
   cursor: pointer;
   font-size: var(--toggle-size);
 }
