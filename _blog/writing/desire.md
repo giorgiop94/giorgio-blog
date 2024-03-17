@@ -77,7 +77,7 @@ May we be able to differentiate it from the kinds of desire we can let go of?
 
 ### Desire's Bad Rep
 
-[![](https://lh7-us.googleusercontent.com/Qj0OpiYEqoNP4ERiLGLLKtJrmeYlMckPjVLrO7QYhcqrbbkZhjb2DJFKxTWj5KCei1xF0e7h8ziEsk7nuOxqtTJx7x3HVyJdVpc0KIVDEzDdJ1yA-1-BgjpbHP--Oyx7d4FGlpKWhNe_QHAro26JUw)](https://twitter.com/naval/status/846774878195757057)
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">Desire is a contract that you make with yourself to be unhappy until you get what you want.</p>&mdash; Naval (@naval) <a href="https://twitter.com/naval/status/846774878195757057?ref_src=twsrc%5Etfw">March 28, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Part of why traditional Dharma circles seem to be against goals and desire is that they concern the future, taking us away from the present moment.
 
