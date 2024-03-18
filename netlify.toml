@@ -1,5 +1,5 @@
 [[redirects]]
 from = "https://notes.thespoken.one/*"
-to = "https://notes.giorgiop.com"
+to = "https://notes.giorgiop.com/:splat"
 status = 301
 force = true
