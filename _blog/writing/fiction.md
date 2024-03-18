@@ -9,7 +9,7 @@ description: >
 *Estimated reading time: 4-5 mins*
 
 This essay was originally sent through my newsletter – [INTERMITTENT
-INSIGHTS](https://giorgiop.com/letters/)
+INSIGHTS](https://thespoken.one/letters/)
 
 ---
 
@@ -98,7 +98,7 @@ blooming, the new students (you could tell at a glance) carrying armloads of new
 Reading those (and many other) passages, portrayed so beautifully, inspired me to look for and
 **appreciate more the beauty in my own daily life**. 
 
-So many moments that could usually be ignored for being so common, can actually become a small source of pleasure, and a reminder of how [beautiful the moment is](https://giorgiop.com/this-is-it/), if we just pay attention.
+So many moments that could usually be ignored for being so common, can actually become a small source of pleasure, and a reminder of how [beautiful the moment is](https://thespoken.one/this-is-it/), if we just pay attention.
 
 And then, of course, many novels also sprinkle gems of wisdom here and there.
 
@@ -108,7 +108,7 @@ Months ago, after reading *Norwegian Wood*, I promised myself I would read more 
 adding some novels to my reading list. But eventually, I found myself continuously attracted by this or
 that non-fiction book.
 
-Recently though, inspired by [Rob Burbea](https://notes.giorgiop.com/rob-burbea)’s Dharma, where things
+Recently though, inspired by [Rob Burbea](https://notes.thespoken.one/rob-burbea)’s Dharma, where things
 like wonder, imagination, and beauty play an important role, I picked up [*Kafka on the Shore*](https://www.amazon.com/Kafka-Shore-Haruki-Murakami/dp/1400079276?crid=3IOKAYG2HCFW7&keywords=kafka+on+the+shore&qid=1621421816&sprefix=kafka+on+%2Caps%2C288&sr=8-1&linkCode=ll1&tag=giorgiopa-20&linkId=aefaf0547b59bff5c1b0f2b6a280a333&language=en_US&ref_=as_li_ss_tl) (again by Murakami), and once more, I got a rush of
 excitement about reading that I hadn’t felt in a while. 
 

@@ -10,7 +10,7 @@ description: >
 
 ---
 
-This essay was originally sent through my newsletter – [INTERMITTENT INSIGHTS](https://giorgiop.com/letters/)
+This essay was originally sent through my newsletter – [INTERMITTENT INSIGHTS](https://thespoken.one/letters/)
 
 A few months ago, I visited the most disorganized “restaurant” I’ve ever been to.
 
@@ -109,9 +109,9 @@ my job.
 
 Week after week, I kept facing the fact that my job was making me miserable and not bringing me any closer
 to my long-term vision. After a while, it was natural to opt for a change of direction (I go more into the
-reasons for quitting [in this article](https://giorgiop.com/job/)).
+reasons for quitting [in this article](https://thespoken.one/job/)).
 
-If you want to start the habit of a weekly or monthly review, [it is best to start with something simple](https://notes.giorgiop.com/book-how-to-fail-at-almost-everything-and-still-win-big-scott-adams). Your habit
+If you want to start the habit of a weekly or monthly review, [it is best to start with something simple](https://notes.thespoken.one/book-how-to-fail-at-almost-everything-and-still-win-big-scott-adams). Your habit
 will feel less overwhelming and easier to complete.
 
 > “The good program you follow is better than the perfect program you quit” \

@@ -62,7 +62,7 @@ There’s no way around it, continuing with “business as usual” is not a lon
 
 The Earth is a complex, adaptive, living system. For the past 10,000 years, this complex system has been in a stable state, ideal for human flourishing, also known as the Holocene.
 
-As we continue pushing the Earth outside of its boundaries, we risk pushing the system outside of its equilibrium, creating [tipping points](https://notes.giorgiop.com/tipping-point-nonlinear-effects) that might be impossible to
+As we continue pushing the Earth outside of its boundaries, we risk pushing the system outside of its equilibrium, creating [tipping points](https://notes.thespoken.one/tipping-point-nonlinear-effects) that might be impossible to
 reverse.
 
 ![trajectories in the anthropocene](/assets/blog/Stability-landscape-showing-the-pathway-of-the-Earth-System-out-of-the-Holocene-and-thus.png)
@@ -84,18 +84,18 @@ Source: [Trajectories of the Earth System in the Anthropocene](https://www.resea
 
 <iframe width="500" height="440" frameborder="0" src="https://ncase.me/loopy/v1.1/?embed=1&amp;data=[[[1,813,217,1,%22Rainfall%22,4],[2,818,499,0,%22Deforestation%22,0],[5,468,352,1,%22Vegetation%22,3]],[[2,5,57,-1,0],[5,1,24,1,0],[1,5,40,1,0]],[],5%5D"></iframe>
 
- If we continue transgressing [Planetary Boundaries](https://notes.giorgiop.com/planetary-boundaries) and cause Global Tipping points, we can expect to experience increasingly disastrous effects.
+ If we continue transgressing [Planetary Boundaries](https://notes.thespoken.one/planetary-boundaries) and cause Global Tipping points, we can expect to experience increasingly disastrous effects.
 
 Some of the scariest consequences of climate change, which we already started to experience, are a rise in the occurrence of natural disasters, with potentially disruptive effects on global food systems. As these
 and other environmental tragedies continue manifesting on ever-larger scales, it is not unlikely to also expect unprecedented political unrest, chaos, and a breakdown of global supply chains (also due to the
 impossibility of sustaining fossil fuel use).
 
 At this stage, simply reducing deforestation or cutting emissions is not going to be enough. We need to actually regenerate the Earth, reduce our reliance on fossil fuels, while also increasing our individual and
-community [resilience](https://notes.giorgiop.com/resilience) to the environmental shocks that will inevitably become more frequent.
+community [resilience](https://notes.thespoken.one/resilience) to the environmental shocks that will inevitably become more frequent.
 
 We have no other choice (unless you believe that moving our civilization to another planet is feasible or desirable).
 
-This means that investments in [regenerative agriculture](https://notes.giorgiop.com/regenerative-agriculture) (permaculture, agroforestry) and decentralized green technology will inevitably have to rise as we come face-to-face with the consequences of ecological destruction. Further, it will be necessary to upgrade our collective sense-making and decision-making capacities.
+This means that investments in [regenerative agriculture](https://notes.thespoken.one/regenerative-agriculture) (permaculture, agroforestry) and decentralized green technology will inevitably have to rise as we come face-to-face with the consequences of ecological destruction. Further, it will be necessary to upgrade our collective sense-making and decision-making capacities.
 
 In this context, regenerative collectives (especially rural ones) can be a particularly appealing investment (from a societal standpoint) as they create a number of positive externalities:
 
@@ -155,7 +155,7 @@ farming sustainably while leveraging 3-D printing technology (they even teach yo
 their regenerative efforts. This is an incredible and much needed technology as one of the biggest failures of our market system is not accounting for externalities (either positive or negative).
 * [Holochain](https://holochain.org/) is an alternative to blockchain with a much lower energy requirement to run and thus, a massively higher potential for scalability. One of the exciting use cases of Holochain
 is the creation of decentralized, open source apps that can foster collaboration without transacting with a centralized system. In addition, while traditional Proof of Work and Proof of Stake blockchains create a
-“[Rich Get Richer](https://notes.giorgiop.com/book-thinking-in-systems-donella-meadows#rich-get-richer)” dynamic, by design, Holochain avoids this tendency.
+“[Rich Get Richer](https://notes.thespoken.one/book-thinking-in-systems-donella-meadows#rich-get-richer)” dynamic, by design, Holochain avoids this tendency.
 * [Loomio](https://www.loomio.org/) and [Cobudget](https://cobudget.co/) are softwares specifically created to help decentralized groups make better decisions. As I’ll explain in the next section, the history of
 failed communes, teaches us that tools that help us to organize in efficient ways can be instrumental in helping the long-term thriving of regenerative collectives.
 

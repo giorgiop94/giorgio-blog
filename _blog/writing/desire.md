@@ -17,7 +17,7 @@ Let go of your thoughts.
 
 Let go of your desires.
 
-Just be here now, in the present moment, [this is it](https://giorgiop.com/this-is-it/). Surrender. Accept, and even love, what is. [The Universe is unfolding exactly as it should](https://notes.giorgiop.com/the-universe-is-unfolding-exactly-as-it-should). Go with the flow.
+Just be here now, in the present moment, [this is it](https://thespoken.one/this-is-it/). Surrender. Accept, and even love, what is. [The Universe is unfolding exactly as it should](https://notes.thespoken.one/the-universe-is-unfolding-exactly-as-it-should). Go with the flow.
 
 Don't resist, that will only make you suffer.
 
@@ -37,7 +37,7 @@ Stuck in those views, I had never stopped to consider:
 
 "Am I letting go of opportunities for beauty, fulfillment, and joy as I try to let go of desire?"
 
-Coming across [Rob Burbea](https://notes.giorgiop.com/rob-burbea)'s work, planted some of these questions in my mind and helped me consider that embracing some of my healthy "soul desires" could actually be....desirable.
+Coming across [Rob Burbea](https://notes.thespoken.one/rob-burbea)'s work, planted some of these questions in my mind and helped me consider that embracing some of my healthy "soul desires" could actually be....desirable.
 
 But until yesterday (....all my troubles seemed so far away...), I hadn't realized how my conditioned aspiration to "let go" affected me in undesirable ways.
 
@@ -69,7 +69,7 @@ And that's why I wanted to write about "The Duty of Desire".
 
 If we adopt the view that some of our desires come from deep within us (some may like to say from our soul), we can see it almost as a duty towards this higher part of us to act upon them.
 
-Of course, it's important to remember that this is just another view, that also needs to be [taken lightly](https://notes.giorgiop.com/not-too-tight-not-too-loose). It could be extremely dangerous to start seeing our desires as implying a duty, but we can play with this idea and explore what it would mean to us.
+Of course, it's important to remember that this is just another view, that also needs to be [taken lightly](https://notes.thespoken.one/not-too-tight-not-too-loose). It could be extremely dangerous to start seeing our desires as implying a duty, but we can play with this idea and explore what it would mean to us.
 
 If there was such a thing as a "soul desire", what would it feel like?
 
@@ -111,7 +111,7 @@ Maybe, even if we don't end up satisfying this desire, just the movement towards
 
 > "Ultimately one loves one’s desires and not that which is desired" Nietzche
 
-In this sense, we can intend desire as different from craving in one important way. Craving implies an inherent sense of lack -- "I lack this thing and can't be happy until I obtain it". While in the sense intended here, desire may not have a sense of lack at all, but rather a positive energy springing up from it. Rob titled a series of his talks [The Beauty of Desire](https://notes.giorgiop.com/talks-beauty-of-desire-rob-burbea), implying, as Nietzche does, that deep desires may have a kind of beauty imbued in them irrespective of whether they are satisfied.
+In this sense, we can intend desire as different from craving in one important way. Craving implies an inherent sense of lack -- "I lack this thing and can't be happy until I obtain it". While in the sense intended here, desire may not have a sense of lack at all, but rather a positive energy springing up from it. Rob titled a series of his talks [The Beauty of Desire](https://notes.thespoken.one/talks-beauty-of-desire-rob-burbea), implying, as Nietzche does, that deep desires may have a kind of beauty imbued in them irrespective of whether they are satisfied.
 
 How would it feel to allow ourselves to inquire into our deepest desires, and take steps towards them? Not the material or egoic stuff that our consumerist culture encourages us to crave, but the deep desires of our soul, things like God (whatever it means to you), Love, Connection, Intimacy, Beauty, Enchantment, Adventure.
 
@@ -119,7 +119,7 @@ How would it feel to allow ourselves to inquire into our deepest desires, and ta
 
 ### Just Another Way of Looking
 
-I'm not saying that the traditional ([Modernist?](https://vividness.live/consensus-buddhism)) Dharma views are wrong or not helpful, not at all. Like Rob would say, they are [Ways of Looking](https://notes.giorgiop.com/ways-of-looking) that can be extremely useful in some particular situations, but less so in others.
+I'm not saying that the traditional ([Modernist?](https://vividness.live/consensus-buddhism)) Dharma views are wrong or not helpful, not at all. Like Rob would say, they are [Ways of Looking](https://notes.thespoken.one/ways-of-looking) that can be extremely useful in some particular situations, but less so in others.
 
 The Buddha's parable of the raft seems to offer a great example. 
 

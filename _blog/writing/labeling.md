@@ -11,7 +11,7 @@ description: >
 *Estimated reading time: 6 mins*
 
 This essay was originally sent through my newsletter – [INTERMITTENT
-INSIGHTS](https://giorgiop.com/letters/)
+INSIGHTS](https://thespoken.one/letters/)
 
 ---
 

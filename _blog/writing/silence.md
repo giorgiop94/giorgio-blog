@@ -11,7 +11,7 @@ As new technologies continue to rush into our lives, it is critical that we ask 
 
 For the past few years, we’ve been doing that somewhat successfully with smartphones and social media.
 
-Today many people know that, if used excessively, those technologies can have a negative impact on our mood, productivity, and life satisfaction. As we became aware of their harm, we started [devising systems and tactics to avoid abusing them.](https://giorgiop.com/phone-mastery/).
+Today many people know that, if used excessively, those technologies can have a negative impact on our mood, productivity, and life satisfaction. As we became aware of their harm, we started [devising systems and tactics to avoid abusing them.](https://thespoken.one/phone-mastery/).
 
 But what about podcasts?
 

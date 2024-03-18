@@ -59,7 +59,7 @@ Cole talked about this in an interview on the [Angie Martinez Show](https://www.
 >
 >
 
-[Stoic philosophers](https://notes.giorgiop.com/book-a-guide-to-the-good-life-by-william-irvine) were discussing very similar ideas over two thousand years ago.
+[Stoic philosophers](https://notes.thespoken.one/book-a-guide-to-the-good-life-by-william-irvine) were discussing very similar ideas over two thousand years ago.
 
 
 > *“If what you have seems insufficient to you, then though you possess the world, you will yet be miserable.”*  *― Seneca*
@@ -243,7 +243,7 @@ are a lot of great resources out there to get started  and I mention a few belo
 In [*FRIENDS*](https://genius.com/J-cole-friends-lyrics) Cole mentions Meditation as a way to deal with suppressed emotions by facing them directly. Similarly, the book [Letting Go](https://www.amazon.com/Letting-David-Hawkins-M-D-Ph-D/dp/1401945015/ref=as_li_ss_tl?dchild=1&keywords=letting+go&qid=1597571262&sr=8-2&linkCode=ll1&tag=giorgiopa-20&linkId=a9711dc7f9564adddf564f25cdf83463&language=en_US) by David Hawkins discusses a meditation technique to help you feel and face suppressed emotions.
 
 While facing your demons will be uncomfortable at first, with time you’ll feel lighter and happier as you release suppressed feelings. The book Letting Go can be a bit esoteric. If you’re not into that stuff, I
-curated some [book notes that only include its most practical points](https://notes.giorgiop.com/book-letting-go-david-hawkins).
+curated some [book notes that only include its most practical points](https://notes.thespoken.one/book-letting-go-david-hawkins).
 
 But **meditation is not only a way to deal with negative emotions. I’d say that it is primarily a practice to understand yourself and cultivate peace, resilience, and gratitude.** For example, in [Foldin Clothes](https://genius.com/J-cole-foldin-clothes-lyrics), Cole describes how meditating and learning to be present, makes him appreciate times with his wife a lot more.
 
@@ -290,7 +290,7 @@ them really helpful. 
 
 Start slow and feel free to reach out to me if you have any questions/doubts. I’ve been practicing for over six years and I love doing what I can to help people get started.
 
-If sitting to meditate sounds too much for you, you can also practice being present in everyday moments, which will also help you enjoy them more. [I wrote a short essay on how I do this](https://giorgiop.com/this-is-it/).
+If sitting to meditate sounds too much for you, you can also practice being present in everyday moments, which will also help you enjoy them more. [I wrote a short essay on how I do this](https://thespoken.one/this-is-it/).
 
 
 
