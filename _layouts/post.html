@@ -9,7 +9,7 @@ toc: true
     <div class="post-content e-content" itemprop="articleBody">
       <div class="toc">
         <<h3>Contents</h3>
-        {% toc %}
+        {{ content | toc_only }}
       </div>
       {{ content }}
     </div>
