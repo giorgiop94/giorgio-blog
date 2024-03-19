@@ -6,10 +6,11 @@ toc: true
   <header class="post-header">
       <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
     </header>
-    <div class="post-content e-content" itemprop="articleBody">
       <div class="toc">
-        {{ content | toc }}
+         <h2>Contents</h2>
+        {{ toc }}
       </div>
+    <div class="post-content e-content" itemprop="articleBody">
       {{ content }}
     </div>
 
