@@ -11,7 +11,7 @@ toc: true
         <<h3>Contents</h3>
         {{ content | toc_only }}
       </div>
-      {{ content }}
+      {{ content | inject_anchors}}
     </div>
 
   {%- if site.disqus.shortname -%}
