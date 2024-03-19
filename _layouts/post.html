@@ -23,15 +23,13 @@ toc: true
       <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
     </header>
     <div class="container">
-    <aside class="sidebar">
-      <<div class="toc">
-        <<h3>Contents</h3>
-        {{ content | toc_only }}
-      </div>
-    </aside>
     <div class="main-content" itemprop="articleBody">
       {{ content | inject_anchors}}
     </div>
+    <aside class="sidebar">
+        <<h3>Contents</h3>
+        {{ content | toc_only }}
+    </aside>
     </div>
 
 
