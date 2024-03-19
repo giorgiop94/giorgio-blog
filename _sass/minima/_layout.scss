@@ -350,7 +350,21 @@
   }
 }
 
+.toc {
+  float: right; /* Float the TOC to the right */
+  width: 30%; /* Adjust the width as needed */
+  margin-left: 20px; /* Add some spacing from the content */
+  position: sticky;
+top: 100px; /* Adjust the top position as needed */
+align-self: flex-start;
+ font-family: 'Raleway', sans-serif; /* Apply Raleway font */
+}
 
+@media (max-width: 768px) {
+  .toc {
+    display: none; /* Hide the TOC on mobile screens */
+  }
+}
 
 /**
  * Grid helpers
