@@ -13,7 +13,12 @@ toc: true
 
 .sidebar {
   flex: 1; /* Adjust the width of the sidebar */
-  padding: 20px;
+  position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+  z-index: 1; /* Stay on top */
+  top: 100px; /* Stay at the top */
+  left: 20px;
+  overflow-x: hidden; /* Disable horizontal scroll */
+  padding-top: 20px;
 }
 </style>
 
