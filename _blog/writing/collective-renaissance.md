@@ -181,7 +181,7 @@ The exciting thing is that different groups can experiment using a diverse range
 member-owned congregation of decentralized companies and social entrepreneurs, is already doing this as the organizational level (they even open-sourced their **AMAZING [HANDBOOK](https://handbook.enspiral.com/)** for
 others to learn from), but it is not far-fetched to imagine a developing network of regenerative communities engaged in a similar kind of sharing. Actually, the [Global Ecovillage Network](https://ecovillage.org/) is an already established network of ecovillages that is in some ways doing so. There is also the [Game B movement](https://www.gameb.wiki/index.php?title=Get_Started), trying to do a similar thing, encouraging the emergence of so-called Proto-B communities, but it is still at an early stage.
 
-## Beyond Community: Adopting a Bioregional Focus
+## Beyond Community: a Bioregional Focus
 
 In the past sections, I outlined some of the major trends that I see as being conducive to the birth and development of regenerative collectives around the world.
 
