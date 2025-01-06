@@ -58,7 +58,7 @@ toc: true
   /* Media Query for Mobile Screens */
   @media (max-width: 768px) {
     .sidebar {
-      display: none; /* Hide the sidebar on smaller screens */
+      display: none !important; /* Hide the sidebar on smaller screens */
     }
 
     .container {
@@ -96,7 +96,7 @@ toc: true
     </div>
 
   <script>
-  document.addEventListener("DOMContentLoaded", function() {
+    document.addEventListener("DOMContentLoaded", function() {
   var toc = document.querySelector('.sidebar');
   var mainContent = document.querySelector('.main-content');
   
@@ -105,10 +105,18 @@ toc: true
   
   console.log("Number of headers: ", headers.length); // For debugging
   
-  if (headers.length < 4) {
+  // Force hide the sidebar on mobile devices
+  if (window.innerWidth <= 768) {
     toc.style.display = 'none';
+  } else {
+    // Show/hide TOC based on header count on larger screens
+    if (headers.length < 4) {
+      toc.style.display = 'none';
+    } else {
+      toc.style.display = 'block';
     }
-  });
+  }
+});
   </script>
 
   {%- if site.disqus.shortname -%}
