@@ -15,7 +15,9 @@ toc: true
   }
 
   .sidebar {
-    flex: 1; /* Adjust the width of the sidebar */
+    flex: 0 1 300px;         /* Allow the sidebar to grow and shrink, but limit it to 300px */
+    max-width: 300px;        /* Max width for sidebar */
+    overflow: auto; 
     position: fixed; /* Fixed Sidebar (stay in place on scroll) */
     padding-right: 20px;
     z-index: 1; /* Stay on top */
