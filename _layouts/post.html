@@ -80,6 +80,15 @@ toc: true
     </aside>
     </div>
 
+    <script>
+    document.addEventListener("DOMContentLoaded", function() {
+      var toc = document.querySelector('.sidebar');
+      var headers = toc.querySelectorAll('h2, h3');
+      if (headers.length < 6) {
+        toc.style.display = 'none';
+      }
+    });
+    </script>
 
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
