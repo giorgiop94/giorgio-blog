@@ -117,7 +117,7 @@ Events outside of your control represent the cards that have been handed to you.
 
 
 > *God shuffled the cards, dealt me a hand with impossible odds\
-> Put an obstacle course up. Look, and I conquered them all”* *– J.Cole* [*[*](https://genius.com/Bas-and-j-cole-tribe-lyrics)*[Tribe]](https://genius.com/Bas-and-j-cole-tribe-lyrics)*
+> Put an obstacle course up. Look, and I conquered them all”* *– J.Cole* [[Tribe]](https://genius.com/Bas-and-j-cole-tribe-lyrics)*
 >
 >
 
@@ -259,7 +259,7 @@ But **meditation is not only a way to deal with negative emotions. I’d say tha
 If you want to hear Cole talk more about meditation, you can check [this interview](https://youtu.be/gsKjJRSmYio?t=257) (minutes 4 to 9), where he discusses how he uses meditation to deal with stressful situations and how he
 wants to make meditation more a part of his life.
 
- ## Recap: It’s all about the mind
+## Recap: It’s all about the mind
 
 
 > “*I know Heaven is a mind state, I’ve been a couple times”*  – J.Cole
@@ -302,6 +302,6 @@ In either case, I’d love to hear your thoughts on it. Feel free to reach out t
 \
 Peace.
 
-  #### Want to share this with a friend?
+Want to share this with a friend?
 
    Share on twitter    Share on facebook    Share on reddit    Share on linkedin    Share on email

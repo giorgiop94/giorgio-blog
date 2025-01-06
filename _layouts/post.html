@@ -80,15 +80,21 @@ toc: true
     </aside>
     </div>
 
-    <script>
-    document.addEventListener("DOMContentLoaded", function() {
-      var toc = document.querySelector('.sidebar');
-      var headers = toc.querySelectorAll('h2, h3, h4');
-      if (headers.length < 4) {
-        toc.style.display = 'none';
-      }
-    });
-    </script>
+  <script>
+  document.addEventListener("DOMContentLoaded", function() {
+  var toc = document.querySelector('.sidebar');
+  var mainContent = document.querySelector('.main-content');
+  
+  // Count all headers (h2, h3, h4) inside the main content
+  var headers = mainContent.querySelectorAll('h2, h3, h4');
+  
+  console.log("Number of headers: ", headers.length); // For debugging
+  
+  if (headers.length < 4) {
+    toc.style.display = 'none';
+    }
+  });
+  </script>
 
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
