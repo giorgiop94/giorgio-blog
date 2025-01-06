@@ -83,8 +83,8 @@ toc: true
     <script>
     document.addEventListener("DOMContentLoaded", function() {
       var toc = document.querySelector('.sidebar');
-      var headers = toc.querySelectorAll('h2, h3');
-      if (headers.length < 6) {
+      var headers = toc.querySelectorAll('h2, h3, h4');
+      if (headers.length < 4) {
         toc.style.display = 'none';
       }
     });
