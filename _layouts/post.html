@@ -18,9 +18,9 @@ toc: true
     padding: 20px; /* Add some padding for readability */
   }
 
-  .sidebar {
-    flex: 1; /* Adjust the width of the sidebar */
-    position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+  .sidenav {
+    flex: 1; /* Adjust the width of the sidenav */
+    position: fixed; /* Fixed sidenav (stay in place on scroll) */
     padding-right: 20px;
     z-index: 1; /* Stay on top */
     top: 100px; /* Stay at the top */
@@ -31,7 +31,7 @@ toc: true
     font-size: 12px; 
   }
 
-  .sidebar ul {
+  .sidenav ul {
   list-style-type: none;  /* Remove the bullet points */
   padding-left: 5px;     /* Adjust the left indentation (increase for more space) */
   margin-left: 0;         /* Remove any default margin on the left */
@@ -57,8 +57,8 @@ toc: true
 
   /* Media Query for Mobile Screens */
   @media (max-width: 1023px){
-    .sidebar {
-      display: none !important; /* Hide the sidebar on smaller screens */
+    .sidenav {
+      display: none !important; /* Hide the sidenav on smaller screens */
     }
 
     .container {
@@ -89,7 +89,7 @@ toc: true
     <div class="main-content" itemprop="articleBody">
       {{ content | inject_anchors}}
     </div>
-    <aside class="sidebar">
+    <aside class="sidenav">
         <h3>Contents</h3>
         {{ content | toc_only }}
     </aside>
@@ -97,7 +97,7 @@ toc: true
 
   <script>
     document.addEventListener("DOMContentLoaded", function() {
-  var toc = document.querySelector('.sidebar');
+  var toc = document.querySelector('.sidenav');
   var mainContent = document.querySelector('.main-content');
   
   // Count all headers (h2, h3, h4) inside the main content
@@ -105,7 +105,7 @@ toc: true
   
   console.log("Number of headers: ", headers.length); // For debugging
   
-  // Force hide the sidebar on mobile devices
+  // Force hide the sidenav on mobile devices
   if (window.innerWidth <= 768) {
     toc.style.display = 'none';
   } else {
