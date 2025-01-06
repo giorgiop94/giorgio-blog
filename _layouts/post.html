@@ -11,6 +11,7 @@ toc: true
   .main-content {
     flex: 2; /* Adjust the width of the main content area */
     padding: 20px; /* Add some padding for readability */
+    margin-left: 40px; /* Adjust this value to increase the separation */
   }
 
   .sidebar {
@@ -37,6 +38,14 @@ toc: true
       width: 100%; /* Take full width on mobile */
       padding: 10px; /* Reduce padding for smaller screens */
     }
+
+    .main-content img,
+    .main-content video,
+    .main-content iframe {
+    max-width: 100%; /* Ensure media fits within the text wrapper */
+    height: auto; /* Maintain aspect ratio */
+    display: block; /* Prevent inline overflow */
+  }
   }
 </style>
 
