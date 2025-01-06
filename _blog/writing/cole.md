@@ -82,7 +82,7 @@ state. A way to do that is by practicing appreciation and acceptance. 
 >
 >
 
-## Practice 1: Appreciation and Acceptance (Amor Fati)
+## Practice 1: Amor Fati
 
 Cole discusses appreciation and acceptance exceptionally in *[Love Yourz](https://genius.com/J-cole-love-yourz-lyrics)*. As the title suggests, the main message of the song is:
 
@@ -214,7 +214,7 @@ it. 
 
 So, how do we deal with this? Cole suggests facing our demons (negative emotions) directly. A way to do that is through Meditation, which is also what the Buddhists have been advocating for thousands of years.
 
-## Practice 2: Meditation and Letting Go of Negative Emotions
+## Practice 2: Meditation and Letting Go
 
 
 > “One thing about your demons they bound to catch up one day\ **I’d rather see you stand up and face them than run away**\
