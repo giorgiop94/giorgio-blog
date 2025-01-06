@@ -4,22 +4,40 @@ toc: true
 ---
 <style type="text/css" media="screen">
   .container {
-  display: flex;
-}
+    display: flex;
+    flex-wrap: wrap; /* Allow wrapping for smaller screens */
+  }
 
-.main-content {
-  flex: 2; /* Adjust the width of the main content area */
-}
+  .main-content {
+    flex: 2; /* Adjust the width of the main content area */
+    padding: 20px; /* Add some padding for readability */
+  }
 
-.sidebar {
-  flex: 1; /* Adjust the width of the sidebar */
-  position: fixed; /* Fixed Sidebar (stay in place on scroll) */
-  z-index: 1; /* Stay on top */
-  top: 100px; /* Stay at the top */
-  left: 20px;
-  overflow-x: hidden; /* Disable horizontal scroll */
-  padding-top: 20px;
-}
+  .sidebar {
+    flex: 1; /* Adjust the width of the sidebar */
+    position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+    z-index: 1; /* Stay on top */
+    top: 100px; /* Stay at the top */
+    left: 20px;
+    overflow-x: hidden; /* Disable horizontal scroll */
+    padding-top: 20px;
+  }
+
+  /* Media Query for Mobile Screens */
+  @media (max-width: 768px) {
+    .sidebar {
+      display: none; /* Hide the sidebar on smaller screens */
+    }
+
+    .container {
+      display: block; /* Stack elements vertically on small screens */
+    }
+
+    .main-content {
+      width: 100%; /* Take full width on mobile */
+      padding: 10px; /* Reduce padding for smaller screens */
+    }
+  }
 </style>
 
 
