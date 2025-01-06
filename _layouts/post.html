@@ -11,7 +11,6 @@ toc: true
   .main-content {
     flex: 2; /* Adjust the width of the main content area */
     padding: 20px; /* Add some padding for readability */
-    margin-left: 40px; /* Adjust this value to increase the separation */
   }
 
   .sidebar {
@@ -22,6 +21,14 @@ toc: true
     left: 20px;
     overflow-x: hidden; /* Disable horizontal scroll */
     padding-top: 20px;
+  }
+
+    /* Media Query for Desktop Screens */
+    @media (min-width: 769px) {
+    .main-content,
+    .post-header {
+      margin-left: 20px; /* Add margin on desktop only */
+    }
   }
 
   /* Media Query for Mobile Screens */
