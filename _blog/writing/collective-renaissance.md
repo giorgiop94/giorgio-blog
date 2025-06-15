@@ -75,18 +75,14 @@ Source: [Trajectories of the Earth System in the Anthropocene](https://www.resea
         + More ice caps melt
         + Temperatures rise more…
 
-<div class="iframe-container">
-  <iframe src="https://ncase.me/loopy/v1.1/?embed=1&amp;data=[[[1,576,279,0,%22Ice%2520Caps%2520Melt%22,4],[2,578,438,0,%22Warming%22,0],[3,753,360,1,%22Earth'%2520s%2520Reflectivity%2520%22,5]],[[2,1,104,1,0],[1,3,35,-1,0],[3,2,50,-1,0]],[],4%5D"></iframe>
-</div>
+<iframe width="500" height="440" frameborder="0" src="https://ncase.me/loopy/v1.1/?embed=1&data=[[[1,543,300,0,%22Ice%2520Caps%2520Melt%22,4],[2,545,459,0,%22Warming%22,0],[3,720,381,1,%22Earth'%2520s%2520Reflectivity%2520%22,5]],[[2,1,104,1,0],[1,3,35,-1,0],[3,2,50,-1,0]],[],4%5D"></iframe>
 
  * Deforestation reduces the number of trees
         + Less trees will trap less heat and contribute to less rainfall
         + Less rainfall hampers the ability of vegetation to grow
         + Less plants cause rainfall to decrease even further
 
-<div class="iframe-container">
-  <iframe src="https://ncase.me/loopy/v1.1/?embed=1&amp;data=[[[1,813,217,1,%22Rainfall%22,4],[2,818,499,0,%22Deforestation%22,0],[5,468,352,1,%22Vegetation%22,3]],[[2,5,57,-1,0],[5,1,24,1,0],[1,5,40,1,0]],[],5%5D"></iframe>
-</div>
+<iframe width="500" height="440" frameborder="0" src="https://ncase.me/loopy/v1.1/?embed=1&data=[[[1,780,238,1,%22Rainfall%22,4],[2,785,520,0,%22Deforestation%22,0],[5,435,373,1,%22Vegetation%22,3]],[[2,5,57,-1,0],[5,1,24,1,0],[1,5,40,1,0]],[],5%5D"></iframe>
 
  If we continue transgressing [Planetary Boundaries](https://notes.thespoken.one/planetary-boundaries) and cause Global Tipping points, we can expect to experience increasingly disastrous effects.
 
